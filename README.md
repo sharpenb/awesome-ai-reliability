@@ -66,15 +66,52 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## People 🧑‍💻
+- **Bertrand Charpentier** - [Uncertainty, Bayesian Methods] Expert in Bayesian deep learning and uncertainty estimation.
+- **Stephan Günnemann** - [Robustness, Graph Learning] Expert in robust machine learning and uncertainty quantification.
+- **Eyke Hüllermeier** - [Uncertainty, Decision Theory] Leading researcher in uncertainty estimation and preference learning.
+- **Eric Nalisnick** - [Uncertainty, Bayesian Methods] Specialist in Bayesian deep learning and uncertainty estimation.
 - **Andrew Ng** - [Reliability, Education] Pioneer in ML reliability and online education.
 - **Fei-Fei Li** - [Ethics, Reliability] Advocate for AI ethics and reliability.
 - **Timnit Gebru** - [Fairness, Ethics] Renowned researcher in AI fairness and reliability.
 - **Ian Goodfellow** - [Security, Adversarial Robustness] Expert on adversarial machine learning.
-- **Stephan Günnemann** - [Robustness, Graph Learning] Expert in robust machine learning and uncertainty quantification.
-- **Eyke Hüllermeier** - [Uncertainty, Decision Theory] Leading researcher in uncertainty estimation and preference learning.
-- **Eric Nalisnick** - [Uncertainty, Bayesian Methods] Specialist in Bayesian deep learning and uncertainty estimation.
-- **Bertrand Charpentier** - [Uncertainty, Bayesian Methods] Specialist in Bayesian deep learning and uncertainty estimation.
 - **Yarin Gal** - [Uncertainty, Bayesian Methods] Thought leader in Bayesian deep learning and uncertainty estimation.
+- **Zoubin Ghahramani** - [Bayesian Methods, Uncertainty] Leading expert in Bayesian machine learning and probabilistic models.
+- **Balaji Lakshminarayanan** - [Uncertainty, Deep Ensembles] Prominent researcher in predictive uncertainty and reliability.
+- **Dan Hendrycks** - [Robustness, OOD Detection] Expert in robustness to distribution shifts and adversarial attacks.
+- **Alexander Amini** - [Uncertainty, Autonomous Systems] Researcher in evidential deep learning and uncertainty quantification for autonomous systems.
+- **Dario Amodei** - [AI Safety, Alignment] Advocate for safe AI systems and robustness in large language models.
+- **Nicholas Carlini** - [Security, Adversarial Attacks] Specialist in adversarial robustness and secure machine learning systems.
+- **Chelsea Finn** - [Robustness, Generalization] Researcher in meta-learning, reliability, and generalization in robotics and ML.
+- **Samy Bengio** - [Uncertainty, Generative Models] Expert in reliability and robustness in generative machine learning systems.
+- **Jascha Sohl-Dickstein** - [Robustness, Generative Methods] Researcher in reliable generative models and diffusion-based techniques.
+- **Karen Simonyan** - [Vision, Robustness] Key researcher in robust deep learning for computer vision applications.
+- **Christian Szegedy** - [Adversarial Robustness, Vision] Expert on robustness in image recognition and adversarial example defenses.
+- **Nick Bostrom** - [AI Safety, Ethics] Author of *Superintelligence*, emphasizing reliability in AI systems and societal impacts.
+- **Marta Kwiatkowska** - [AI Safety, Formal Verification] Researcher in formal methods for AI reliability and safety.
+- **Ryan Adams** - [Bayesian Methods, Uncertainty] Researcher in scalable Bayesian inference and uncertainty quantification.
+- **Katherine Heller** - [Uncertainty, Bayesian Inference] Specialist in Bayesian methods for reliable probabilistic modeling.
+- **Chris Olah** - [Interpretability, Robustness] Advocate for interpretability and reliability in deep neural networks.
+- **Arvind Narayanan** - [Fairness, Security] Researcher focusing on fairness, privacy, and secure ML systems.
+- **Joan Bruna** - [Graph Learning, Robustness] Researcher in robust and reliable graph neural networks.
+- **Percy Liang** - [Uncertainty, Reliability] Prominent researcher in generalization and robustness of machine learning models.
+- **Shakir Mohamed** - [Ethics, Reliability] Advocate for equitable and reliable AI systems, focusing on fairness and interpretability.
+- **Michael Jordan** - [Statistics, Reliability] Pioneer in probabilistic machine learning and reliable AI models.
+- **Geoffrey Hinton** - [Neural Networks, Interpretability] Foundational researcher in neural network reliability and robustness.
+- **Max Welling** - [Bayesian Methods, Deep Learning] Expert in uncertainty quantification and scalable Bayesian methods.
+- **Vladimir Vapnik** - [Generalization, Reliability] Developer of support vector machines and theories on generalization.
+- **Leslie Kaelbling** - [Reinforcement Learning, Robustness] Prominent researcher in reliable reinforcement learning.
+- **Pieter Abbeel** - [Robotics, Robustness] Leader in reliable robotic learning and real-world ML applications.
+- **Sanja Fidler** - [Vision, Robustness] Expert in robust computer vision and safety in ML applications.
+- **Thomas Dietterich** - [Fairness, Safety] Researcher focusing on fairness, reliability, and safety in ML.
+- **Hanna Wallach** - [Fairness, Ethics] Researcher on societal impacts and fairness in machine learning.
+- **Anca Dragan** - [Human-AI Interaction, Safety] Advocate for reliable human-AI collaboration and interaction.
+- **David Silver** - [Reinforcement Learning, Reliability] Developer of AlphaGo and reliability in RL systems.
+- **Oriol Vinyals** - [Reinforcement Learning, Robustness] Expert in multi-agent systems and reinforcement learning reliability.
+- **Kevin Murphy** - [Uncertainty, Probabilistic Models] Leading researcher in probabilistic models for reliable AI.
+- **Cynthia Rudin** - [Interpretability, Ethics] Advocate for interpretable and responsible AI systems.
+- **Pushmeet Kohli** - [Robustness, Verification] Specialist in verifying the robustness of machine learning models.
+- **Jonas Peters** - [Causality, Reliability] Expert in causal inference and robust machine learning.
+- **Adrian Weller** - [Fairness, Explainability] Researcher in fairness and reliable explainability methods.
 
 ---
 
