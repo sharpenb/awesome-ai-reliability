@@ -4,6 +4,8 @@
 
 A curated list of resources about Machine Learning (ML) reliability. It covers robustness, uncertainty, privacy, and trustworthiness of ML systems.
 
+If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free to contribute by submitting a pull request or issue!
+
 ---
 
 ## Facts/Numbers 📊
@@ -40,6 +42,9 @@ A curated list of resources about Machine Learning (ML) reliability. It covers r
 - *"Adversarial Robustness for Deep Learning"* (2019) [Robustness, Security] - [ArXiv](https://arxiv.org/abs/1905.01065)
 - *"Fairness and Robustness in AI Systems"* (2020) [Fairness, Robustness, Ethics] - [Nature Machine Intelligence](https://www.nature.com/natmachintell)
 - *"Uncertainty Quantification in ML"* (2021) [Uncertainty, Reliability] - [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org)
+- *"Exploring Bayesian Methods in Uncertainty Quantification"* (2021) [Uncertainty, Bayesian Methods] - [Proceedings of Machine Learning Research](https://proceedings.mlr.press)
+- *"Energy-based Models for Out-of-Distribution Detection"* (2022) [Robustness, OOD Detection] - [NeurIPS](https://neurips.cc)
+- *"Graph Neural Networks: Robustness Under Adversarial Settings"* (2022) [Graph Learning, Robustness] - [ICLR](https://iclr.cc)
 
 ---
 
@@ -47,6 +52,8 @@ A curated list of resources about Machine Learning (ML) reliability. It covers r
 - *"Reliable Machine Learning"* (2020) [Reliability, Engineering] by Erik Jones
 - *"Trustworthy AI"* (2021) [Ethics, Trustworthiness] by Beena Ammanath
 - *"Robust Machine Learning in Python"* (2022) [Robustness, Tools] by Sarah Bird
+- *"Uncertainty in Deep Learning: A Practical Guide"* (2023) [Uncertainty, Methods] by Yarin Gal
+- *"Explainable AI and its Reliability"* (2022) [Explainability, Reliability] by Christoph Molnar
 
 ---
 
@@ -54,6 +61,7 @@ A curated list of resources about Machine Learning (ML) reliability. It covers r
 - **"Reliability in AI: Challenges and Solutions"** [Reliability, Challenges] - [MIT OpenCourseWare](https://ocw.mit.edu)
 - **"Robustness in Machine Learning"** [Robustness, Techniques] - [Stanford Online](https://online.stanford.edu)
 - **"Trustworthy AI Systems"** [Trustworthiness, Systems] - [DeepMind YouTube](https://www.youtube.com)
+- **"Uncertainty Estimation and Trust in ML"** [Uncertainty, Estimation] - [Cambridge University YouTube](https://www.youtube.com)
 
 ---
 
@@ -62,14 +70,16 @@ A curated list of resources about Machine Learning (ML) reliability. It covers r
 - **Fei-Fei Li** - [Ethics, Reliability] Advocate for AI ethics and reliability.
 - **Timnit Gebru** - [Fairness, Ethics] Renowned researcher in AI fairness and reliability.
 - **Ian Goodfellow** - [Security, Adversarial Robustness] Expert on adversarial machine learning.
+- **Stephan Günnemann** - [Robustness, Graph Learning] Expert in robust machine learning and uncertainty quantification.
+- **Eyke Hüllermeier** - [Uncertainty, Decision Theory] Leading researcher in uncertainty estimation and preference learning.
+- **Eric Nalisnick** - [Uncertainty, Bayesian Methods] Specialist in Bayesian deep learning and uncertainty estimation.
+- **Bertrand Charpentier** - [Uncertainty, Bayesian Methods] Specialist in Bayesian deep learning and uncertainty estimation.
+- **Yarin Gal** - [Uncertainty, Bayesian Methods] Thought leader in Bayesian deep learning and uncertainty estimation.
 
 ---
 
 ## Contributing 🤝
 We welcome contributions! Please follow our [contribution guidelines](CONTRIBUTING.md) to share resources, tools, or ideas that align with the theme of ML reliability.
-
-### Like, Share, and Contribute 💬
-If you find this list helpful, give it a ⭐ on GitHub, share it with your network, and feel free to contribute by submitting a pull request or issue. Together, we can build a more reliable ML ecosystem!
 
 ---
 
