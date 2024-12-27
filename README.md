@@ -1,5 +1,7 @@
 # Awesome ML Reliability 🌟
 
+![Awesome](https://awesome.re/badge.svg) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)
+
 A curated list of resources about Machine Learning (ML) reliability. It covers robustness, uncertainty, privacy, and trustworthiness of ML systems.
 
 ---
