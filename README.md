@@ -2,13 +2,9 @@
 
 ![Awesome](https://awesome.re/badge.svg) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-A curated list of resources about Machine Learning (ML) reliability. It covers robustness, uncertainty, privacy, and trustworthiness of ML systems.
+A curated list of resources about Machine Learning (ML) reliability. It covers trustworthiness of ML systems by including resources on the topics listed below and more!
 
-If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free to contribute by submitting a pull request or issue!
-
----
-
-## Topics Summary 🎨
+### Topics Summary 🎨
 
 | Topic            | Description                                    | Badge Example                                          |
 |-------------------|------------------------------------------------|-------------------------------------------------------|
@@ -21,10 +17,11 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **Fairness**      | Ensuring fairness and equity in AI             | ![Fairness](https://img.shields.io/badge/Fairness-teal) |
 | **Explainability**| Improving interpretability of AI systems       | ![Explainability](https://img.shields.io/badge/Explainability-cyan) |
 
+If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free to contribute by submitting a pull request or issue!
+
 ---
 
 ## Table of Contents
-- [Topics Summary 🎨](#topics-summary-🎨)
 - [Facts/Numbers 📊](#factsnumbers-📊)
 - [Tools 🛠️](#tools-🛠️)
 - [Newspaper Articles 📰](#newspaper-articles-📰)
