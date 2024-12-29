@@ -6,6 +6,20 @@ A curated list of resources about Machine Learning (ML) reliability. It covers r
 
 If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free to contribute by submitting a pull request or issue!
 
+## Tag Summary 🎨
+
+| Tag               | Description                                    | Badge Example                                          |
+|-------------------|------------------------------------------------|-------------------------------------------------------|
+| **Reliability**   | Focused on reliable ML systems                 | ![Reliability](https://img.shields.io/badge/Reliability-blue) |
+| **Robustness**    | Ensuring robustness to various conditions      | ![Robustness](https://img.shields.io/badge/Robustness-green) |
+| **Uncertainty**   | Quantifying and managing uncertainty           | ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) |
+| **Ethics**        | Ethical considerations in ML                   | ![Ethics](https://img.shields.io/badge/Ethics-purple) |
+| **Trustworthiness**| Building trustworthy AI systems               | ![Trustworthiness](https://img.shields.io/badge/Trustworthiness-red) |
+| **Tools**         | Tools and frameworks for ML reliability        | ![Tools](https://img.shields.io/badge/Tools-cyan) |
+| **Graph Learning**| Learning and robustness in graph-based models  | ![Graph Learning](https://img.shields.io/badge/Graph_Learning-teal) |
+| **OOD Detection** | Detecting out-of-distribution samples          | ![OOD Detection](https://img.shields.io/badge/OOD_Detection-pink) |
+| **Bayesian Methods** | Bayesian approaches to ML                   | ![Bayesian Methods](https://img.shields.io/badge/Bayesian_Methods-lime) |
+
 ---
 
 ## Facts/Numbers 📊
@@ -25,17 +39,16 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Newspaper Articles 📰
-- *"The Dark Side of AI: How Reliability Issues Impact Society"* (2021) ![Robustness](https://img.shields.io/badge/Tag-Robustness-blue) - [The New York Times](https://www.nytimes.com)
-- *"Why Reliable AI is a Business Necessity"* (2022) ![Reliability](https://img.shields.io/badge/Tag-Reliability-blue) ![Business Impact](https://img.shields.io/badge/Tag-Business_Impact-blue) - [Forbes](https://www.forbes.com)
-- *"Regulators are Closing In on AI Reliability"* (2023) ![Regulation](https://img.shields.io/badge/Tag-Regulation-blue) ![Trustworthiness](https://img.shields.io/badge/Tag-Trustworthiness-blue) - [Financial Times](https://www.ft.com)
-
+- *"The Dark Side of AI: How Reliability Issues Impact Society"* (2021) ![Robustness](https://img.shields.io/badge/Robustness-green) - [The New York Times](https://www.nytimes.com)
+- *"Why Reliable AI is a Business Necessity"* (2022) ![Reliability](https://img.shields.io/badge/Reliability-blue) ![Business Impact](https://img.shields.io/badge/Business_Impact-orange) - [Forbes](https://www.forbes.com)
+- *"Regulators are Closing In on AI Reliability"* (2023) ![Regulation](https://img.shields.io/badge/Regulation-red) ![Trustworthiness](https://img.shields.io/badge/Trustworthiness-purple) - [Financial Times](https://www.ft.com)
 
 ---
 
 ## Blog Articles 📝
-- *"How to Build Reliable AI Systems"* (2020) [Reliability, Practical Applications] - [Towards Data Science](https://towardsdatascience.com)
-- *"Reliability in Machine Learning: Lessons from Industry"* (2021) [Industry Practices, Trustworthiness] - [Google AI Blog](https://ai.googleblog.com)
-- *"Top 10 Tools for ML Reliability Testing"* (2022) [Tools, Testing, Robustness] - [Analytics Vidhya](https://www.analyticsvidhya.com)
+- *"How to Build Reliable AI Systems"* (2020) ![Reliability](https://img.shields.io/badge/Reliability-blue) ![Practical Applications](https://img.shields.io/badge/Practical_Applications-orange) - [Towards Data Science](https://towardsdatascience.com)
+- *"Reliability in Machine Learning: Lessons from Industry"* (2021) ![Industry Practices](https://img.shields.io/badge/Industry_Practices-lime) ![Trustworthiness](https://img.shields.io/badge/Trustworthiness-purple) - [Google AI Blog](https://ai.googleblog.com)
+- *"Top 10 Tools for ML Reliability Testing"* (2022) ![Tools](https://img.shields.io/badge/Tools-cyan) ![Testing](https://img.shields.io/badge/Testing-teal) ![Robustness](https://img.shields.io/badge/Robustness-green) - [Analytics Vidhya](https://www.analyticsvidhya.com)
 
 ---
 
