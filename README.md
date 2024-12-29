@@ -1,4 +1,4 @@
-# Awesome ML Reliability 🌟
+# 🌟 Awesome ML Reliability 🌟
 
 ![Awesome](https://awesome.re/badge.svg) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)
 
@@ -42,6 +42,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Tools 🛠️
+- **[Uncertainty Baselines](https://github.com/google/uncertainty-baselines)**: High-quality implementations of standard and SOTA methods on a variety of tasks.
+- **[Uncertainty Toolbox](https://uncertainty-toolbox.github.io/)**: A Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization.
 - **[TensorFlow Model Analysis](https://www.tensorflow.org/tfx/guide/tfma)**: Framework for evaluating model fairness, robustness, and reliability.
 - **[Cleanlab](https://github.com/cleanlab/cleanlab)**: A Python library for finding and fixing label errors in datasets.
 - **[Robustness Gym](https://robustnessgym.com/)**: Tools for testing model performance across diverse scenarios.
