@@ -6,27 +6,41 @@ A curated list of resources about Machine Learning (ML) reliability. It covers r
 
 If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free to contribute by submitting a pull request or issue!
 
-## Tag Summary 🎨
+---
 
-| Tag               | Description                                    | Badge Example                                          |
+## Topics Summary 🎨
+
+| Topic            | Description                                    | Badge Example                                          |
 |-------------------|------------------------------------------------|-------------------------------------------------------|
-| **Reliability**   | Focused on reliable ML systems                 | ![Reliability](https://img.shields.io/badge/Reliability-blue) |
-| **Robustness**    | Ensuring robustness to various conditions      | ![Robustness](https://img.shields.io/badge/Robustness-green) |
 | **Uncertainty**   | Quantifying and managing uncertainty           | ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) |
-| **Ethics**        | Ethical considerations in ML                   | ![Ethics](https://img.shields.io/badge/Ethics-purple) |
-| **Trustworthiness**| Building trustworthy AI systems               | ![Trustworthiness](https://img.shields.io/badge/Trustworthiness-red) |
-| **Tools**         | Tools and frameworks for ML reliability        | ![Tools](https://img.shields.io/badge/Tools-cyan) |
-| **Graph Learning**| Learning and robustness in graph-based models  | ![Graph Learning](https://img.shields.io/badge/Graph_Learning-teal) |
-| **OOD Detection** | Detecting out-of-distribution samples          | ![OOD Detection](https://img.shields.io/badge/OOD_Detection-pink) |
-| **Bayesian Methods** | Bayesian approaches to ML                   | ![Bayesian Methods](https://img.shields.io/badge/Bayesian_Methods-lime) |
+| **Bayesian**      | Bayesian approaches to ML                      | ![Bayesian](https://img.shields.io/badge/Bayesian-lime) |
+| **Robustness**    | Ensuring robustness to various conditions      | ![Robustness](https://img.shields.io/badge/Robustness-green) |
+| **Attacks**       | Exploring adversarial attacks                  | ![Attacks](https://img.shields.io/badge/Attacks-red) |
+| **Defense**       | Defense mechanisms against vulnerabilities     | ![Defense](https://img.shields.io/badge/Defense-blue) |
+| **Privacy**       | Addressing privacy concerns in ML systems      | ![Privacy](https://img.shields.io/badge/Privacy-purple) |
+| **Fairness**      | Ensuring fairness and equity in AI             | ![Fairness](https://img.shields.io/badge/Fairness-teal) |
+| **Explainability**| Improving interpretability of AI systems       | ![Explainability](https://img.shields.io/badge/Explainability-cyan) |
+
+---
+
+## Table of Contents
+- [Topics Summary 🎨](#topics-summary-🎨)
+- [Facts/Numbers 📊](#factsnumbers-📊)
+- [Tools 🛠️](#tools-🛠️)
+- [Newspaper Articles 📰](#newspaper-articles-📰)
+- [Blog Articles 🗒️](#blog-articles-🗒️)
+- [Research Articles 🕌](#research-articles-🕌)
+- [Books 📚](#books-📚)
+- [Lectures 🎓](#lectures-🎓)
+- [People 🧑‍💻](#people-🧑‍💻)
 
 ---
 
 ## Facts/Numbers 📊
-- **$1 Trillion**: Estimated annual global economic impact of unreliable AI systems ([Source](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/the-state-of-ai-in-2023)).
-- **80%**: Percentage of ML projects that fail due to issues with data quality and system reliability ([Source](https://venturebeat.com/ai/mlops-failure-rates-in-machine-learning/)).
-- **60%**: Increase in regulatory frameworks targeting AI reliability since 2020 ([Source](https://www2.deloitte.com/insights/us/en/focus/tech-trends/2023/ai-governance.html)).
-- **3,000+**: Research papers on ML reliability published annually ([Source](https://www.semanticscholar.org/)).
+- **$1 Trillion**: Estimated annual global economic impact of unreliable AI systems ([Source](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/the-state-of-ai-in-2023), 2023).
+- **80%**: Percentage of ML projects that fail due to issues with data quality and system reliability ([Source](https://venturebeat.com/ai/mlops-failure-rates-in-machine-learning/), 2023).
+- **60%**: Increase in regulatory frameworks targeting AI reliability since 2020 ([Source](https://www2.deloitte.com/insights/us/en/focus/tech-trends/2023/ai-governance.html), 2023).
+- **3,000+**: Research papers on ML reliability published annually ([Source](https://www.semanticscholar.org/), 2022).
 
 ---
 
@@ -80,52 +94,52 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## People 🧑‍💻
-- **Bertrand Charpentier** - [Uncertainty, Bayesian Methods] Expert in Bayesian deep learning and uncertainty estimation.
-- **Stephan Günnemann** - [Robustness, Graph Learning] Expert in robust machine learning and uncertainty quantification.
-- **Eyke Hüllermeier** - [Uncertainty, Decision Theory] Leading researcher in uncertainty estimation and preference learning.
-- **Eric Nalisnick** - [Uncertainty, Bayesian Methods] Specialist in Bayesian deep learning and uncertainty estimation.
-- **Andrew Ng** - [Reliability, Education] Pioneer in ML reliability and online education.
-- **Fei-Fei Li** - [Ethics, Reliability] Advocate for AI ethics and reliability.
-- **Timnit Gebru** - [Fairness, Ethics] Renowned researcher in AI fairness and reliability.
-- **Ian Goodfellow** - [Security, Adversarial Robustness] Expert on adversarial machine learning.
-- **Yarin Gal** - [Uncertainty, Bayesian Methods] Thought leader in Bayesian deep learning and uncertainty estimation.
-- **Zoubin Ghahramani** - [Bayesian Methods, Uncertainty] Leading expert in Bayesian machine learning and probabilistic models.
-- **Balaji Lakshminarayanan** - [Uncertainty, Deep Ensembles] Prominent researcher in predictive uncertainty and reliability.
-- **Dan Hendrycks** - [Robustness, OOD Detection] Expert in robustness to distribution shifts and adversarial attacks.
-- **Alexander Amini** - [Uncertainty, Autonomous Systems] Researcher in evidential deep learning and uncertainty quantification for autonomous systems.
-- **Dario Amodei** - [AI Safety, Alignment] Advocate for safe AI systems and robustness in large language models.
-- **Nicholas Carlini** - [Security, Adversarial Attacks] Specialist in adversarial robustness and secure machine learning systems.
-- **Chelsea Finn** - [Robustness, Generalization] Researcher in meta-learning, reliability, and generalization in robotics and ML.
-- **Samy Bengio** - [Uncertainty, Generative Models] Expert in reliability and robustness in generative machine learning systems.
-- **Jascha Sohl-Dickstein** - [Robustness, Generative Methods] Researcher in reliable generative models and diffusion-based techniques.
-- **Karen Simonyan** - [Vision, Robustness] Key researcher in robust deep learning for computer vision applications.
-- **Christian Szegedy** - [Adversarial Robustness, Vision] Expert on robustness in image recognition and adversarial example defenses.
-- **Nick Bostrom** - [AI Safety, Ethics] Author of *Superintelligence*, emphasizing reliability in AI systems and societal impacts.
-- **Marta Kwiatkowska** - [AI Safety, Formal Verification] Researcher in formal methods for AI reliability and safety.
-- **Ryan Adams** - [Bayesian Methods, Uncertainty] Researcher in scalable Bayesian inference and uncertainty quantification.
-- **Katherine Heller** - [Uncertainty, Bayesian Inference] Specialist in Bayesian methods for reliable probabilistic modeling.
-- **Chris Olah** - [Interpretability, Robustness] Advocate for interpretability and reliability in deep neural networks.
-- **Arvind Narayanan** - [Fairness, Security] Researcher focusing on fairness, privacy, and secure ML systems.
-- **Joan Bruna** - [Graph Learning, Robustness] Researcher in robust and reliable graph neural networks.
-- **Percy Liang** - [Uncertainty, Reliability] Prominent researcher in generalization and robustness of machine learning models.
-- **Shakir Mohamed** - [Ethics, Reliability] Advocate for equitable and reliable AI systems, focusing on fairness and interpretability.
-- **Michael Jordan** - [Statistics, Reliability] Pioneer in probabilistic machine learning and reliable AI models.
-- **Geoffrey Hinton** - [Neural Networks, Interpretability] Foundational researcher in neural network reliability and robustness.
-- **Max Welling** - [Bayesian Methods, Deep Learning] Expert in uncertainty quantification and scalable Bayesian methods.
-- **Vladimir Vapnik** - [Generalization, Reliability] Developer of support vector machines and theories on generalization.
-- **Leslie Kaelbling** - [Reinforcement Learning, Robustness] Prominent researcher in reliable reinforcement learning.
-- **Pieter Abbeel** - [Robotics, Robustness] Leader in reliable robotic learning and real-world ML applications.
-- **Sanja Fidler** - [Vision, Robustness] Expert in robust computer vision and safety in ML applications.
-- **Thomas Dietterich** - [Fairness, Safety] Researcher focusing on fairness, reliability, and safety in ML.
-- **Hanna Wallach** - [Fairness, Ethics] Researcher on societal impacts and fairness in machine learning.
-- **Anca Dragan** - [Human-AI Interaction, Safety] Advocate for reliable human-AI collaboration and interaction.
-- **David Silver** - [Reinforcement Learning, Reliability] Developer of AlphaGo and reliability in RL systems.
-- **Oriol Vinyals** - [Reinforcement Learning, Robustness] Expert in multi-agent systems and reinforcement learning reliability.
-- **Kevin Murphy** - [Uncertainty, Probabilistic Models] Leading researcher in probabilistic models for reliable AI.
-- **Cynthia Rudin** - [Interpretability, Ethics] Advocate for interpretable and responsible AI systems.
-- **Pushmeet Kohli** - [Robustness, Verification] Specialist in verifying the robustness of machine learning models.
-- **Jonas Peters** - [Causality, Reliability] Expert in causal inference and robust machine learning.
-- **Adrian Weller** - [Fairness, Explainability] Researcher in fairness and reliable explainability methods.
+- **Bertrand Charpentier** - Working in academia and industry on Bayesian deep learning and uncertainty estimation. [LinkedIn](https://www.linkedin.com/in/bertrand-charpentier/)
+- **Stephan Günnemann** - Working in academia on robust machine learning and graph neural networks. [Website](https://www.professoren.tum.de/guennemann-stephan)
+- **Eyke Hüllermeier** - Working in academia on uncertainty quantification and decision theory. [Website](https://www.uni-paderborn.de/en/person/16348)
+- **Eric Nalisnick** - Working in academia on Bayesian deep learning and uncertainty estimation. [Website](https://www.cs.nott.ac.uk/~ean/)
+- **Andrew Ng** - Working in academia and industry on online education and ML reliability. [Twitter](https://twitter.com/andrewyng) | [LinkedIn](https://www.linkedin.com/in/andrewyng/) | [Website](https://www.andrewng.org/)
+- **Fei-Fei Li** - Working in academia on AI ethics and vision. [Twitter](https://twitter.com/feifeili) | [LinkedIn](https://www.linkedin.com/in/feifei-li/) | [Website](https://profiles.stanford.edu/fei-fei-li)
+- **Timnit Gebru** - Working in industry on fairness and ethical AI. [Twitter](https://twitter.com/timnitGebru) | [Website](https://www.dair-institute.org/)
+- **Ian Goodfellow** - Working in industry on adversarial robustness and ML security. [LinkedIn](https://www.linkedin.com/in/ian-goodfellow/) | [Website](https://www.iangoodfellow.com/)
+- **Yarin Gal** - Working in academia on Bayesian methods and predictive uncertainty. [Twitter](https://twitter.com/yarin_gal) | [Website](https://yarin-gal.com/)
+- **Zoubin Ghahramani** - Working in industry and academia on probabilistic models and Bayesian methods. [Twitter](https://twitter.com/zoubinghahramani) | [Website](https://mlg.eng.cam.ac.uk/zoubin/)
+- **Balaji Lakshminarayanan** - Working in industry on deep ensembles and predictive uncertainty. [LinkedIn](https://www.linkedin.com/in/balaji-lakshminarayanan/) | [Website](https://balajiln.github.io/)
+- **Dan Hendrycks** - Working in academia on robustness to distribution shifts and ML reliability. [Website](https://hendrycks.com/)
+- **Alexander Amini** - Working in academia on evidential learning and autonomous systems. [Website](https://people.csail.mit.edu/amini/)
+- **Dario Amodei** - Working in industry on AI alignment and safety. [LinkedIn](https://www.linkedin.com/in/darioamodei/)
+- **Nicholas Carlini** - Working in industry on adversarial robustness and secure ML. [Website](https://nicholas.carlini.com/)
+- **Chelsea Finn** - Working in academia on meta-learning and reliability in robotics. [Twitter](https://twitter.com/chelseabfinn) | [Website](https://cs.stanford.edu/people/cbfinn/)
+- **Samy Bengio** - Working in industry on generative models and ML robustness. [LinkedIn](https://www.linkedin.com/in/samybengio/) | [Website](https://scholar.google.com/citations?user=jMshKJYAAAAJ)
+- **Jascha Sohl-Dickstein** - Working in industry on diffusion models and generative methods. [Website](https://jaschasd.github.io/)
+- **Karen Simonyan** - Working in industry on vision-based reliability in deep learning. [LinkedIn](https://www.linkedin.com/in/karen-simonyan-75827a33/)
+- **Christian Szegedy** - Working in industry on adversarial defenses and vision. [LinkedIn](https://www.linkedin.com/in/christian-szegedy-23a3459/)
+- **Nick Bostrom** - Working in academia on AI safety and societal impacts. [Website](https://www.nickbostrom.com/)
+- **Marta Kwiatkowska** - Working in academia on formal verification for AI safety. [Website](https://www.cs.ox.ac.uk/marta.kwiatkowska/)
+- **Ryan Adams** - Working in academia on scalable Bayesian inference and uncertainty quantification. [Twitter](https://twitter.com/ryanadamsML) | [Website](https://www.cs.princeton.edu/~rpa/)
+- **Katherine Heller** - Working in academia and industry on probabilistic modeling and Bayesian inference. [LinkedIn](https://www.linkedin.com/in/kheller27/)
+- **Chris Olah** - Working in industry on interpretability and neural network reliability. [Twitter](https://twitter.com/ch402) | [Website](https://colah.github.io/)
+- **Arvind Narayanan** - Working in academia on fairness, privacy, and secure ML systems. [Twitter](https://twitter.com/random_walker) | [Website](https://randomwalker.info/)
+- **Joan Bruna** - Working in academia on robust and reliable graph neural networks. [Website](https://cims.nyu.edu/~bruna/)
+- **Percy Liang** - Working in academia on generalization and ML reliability. [Twitter](https://twitter.com/percyliang) | [Website](https://cs.stanford.edu/people/pliang/)
+- **Shakir Mohamed** - Working in industry on equitable and reliable AI systems. [Twitter](https://twitter.com/shakir_za) | [Website](https://shakirm.com/)
+- **Michael Jordan** - Working in academia on probabilistic modeling and ML reliability. [Website](https://jordanlab.cs.berkeley.edu/)
+- **Geoffrey Hinton** - Working in academia and industry on neural network reliability. [LinkedIn](https://www.linkedin.com/in/geoffrey-hinton/) | [Website](https://www.cs.toronto.edu/~hinton/)
+- **Max Welling** - Working in academia on scalable Bayesian methods and ML uncertainty. [Twitter](https://twitter.com/wellingmax) | [Website](https://staff.fnwi.uva.nl/m.welling/)
+- **Vladimir Vapnik** - Working in academia on generalization theories and SVMs. [Website](https://www.cs.columbia.edu/~vapnik/)
+- **Leslie Kaelbling** - Working in academia on reliable reinforcement learning. [Website](https://www.lcs.mit.edu/leslie-kaelbling)
+- **Pieter Abbeel** - Working in academia on robotics and real-world ML reliability. [Twitter](https://twitter.com/pabbeel) | [Website](https://people.eecs.berkeley.edu/~pabbeel/)
+- **Sanja Fidler** - Working in academia on robust computer vision. [Website](https://www.cs.toronto.edu/~fidler/)
+- **Thomas Dietterich** - Working in academia on fairness and reliability in ML. [Website](http://web.engr.oregonstate.edu/~tgd/)
+- **Hanna Wallach** - Working in industry on societal impacts of ML and fairness. [Website](http://dirichlet.net/)
+- **Anca Dragan** - Working in academia on reliable human-AI collaboration. [Website](https://people.eecs.berkeley.edu/~anca/)
+- **David Silver** - Working in industry on reinforcement learning reliability. [LinkedIn](https://www.linkedin.com/in/david-silver-4b241/) | [Website](https://www.deepmind.com/research/highlighted-research/alphago)
+- **Oriol Vinyals** - Working in industry on reliable multi-agent systems and RL. [LinkedIn](https://www.linkedin.com/in/oriol-vinyals-17721118/) | [Website](https://scholar.google.com/citations?user=ITRAiwIAAAAJ)
+- **Kevin Murphy** - Working in academia and industry on probabilistic models and AI reliability. [Website](https://research.google/people/KevinMurphy/)
+- **Cynthia Rudin** - Working in academia on interpretable and responsible AI. [Website](http://people.duke.edu/~cynthia/)
+- **Pushmeet Kohli** - Working in industry on verifying ML robustness. [LinkedIn](https://www.linkedin.com/in/pushmeet/) | [Website](https://www.microsoft.com/en-us/research/people/pushmeet/)
+- **Jonas Peters** - Working in academia on causal inference and reliable ML. [Website](https://jonas-peters.com/)
+- **Adrian Weller** - Working in academia and industry on fairness and explainability. [Website](https://www.adrianweller.com/)
 
 ---
 
