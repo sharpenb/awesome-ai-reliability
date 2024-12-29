@@ -25,9 +25,10 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Newspaper Articles 📰
-- *"The Dark Side of AI: How Reliability Issues Impact Society"* (2021) [Robustness] - [The New York Times](https://www.nytimes.com)
-- *"Why Reliable AI is a Business Necessity"* (2022) [Reliability, Business Impact] - [Forbes](https://www.forbes.com)
-- *"Regulators are Closing In on AI Reliability"* (2023) [Regulation, Trustworthiness] - [Financial Times](https://www.ft.com)
+- *"The Dark Side of AI: How Reliability Issues Impact Society"* (2021) ![Robustness](https://img.shields.io/badge/Tag-Robustness-blue) - [The New York Times](https://www.nytimes.com)
+- *"Why Reliable AI is a Business Necessity"* (2022) ![Reliability](https://img.shields.io/badge/Tag-Reliability-blue) ![Business Impact](https://img.shields.io/badge/Tag-Business_Impact-blue) - [Forbes](https://www.forbes.com)
+- *"Regulators are Closing In on AI Reliability"* (2023) ![Regulation](https://img.shields.io/badge/Tag-Regulation-blue) ![Trustworthiness](https://img.shields.io/badge/Tag-Trustworthiness-blue) - [Financial Times](https://www.ft.com)
+
 
 ---
 
