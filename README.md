@@ -34,7 +34,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Facts 📊
-- **Hundreds of millions of people now interact with**: Number of people interacting with AI models ([Source](https://arxiv.org/abs/2405.01470), 2024, [Source](https://arxiv.org/abs/2309.11998), 2024)
+- **Hundreds of millions**: Number of people interacting with AI models ([Source](https://arxiv.org/abs/2405.01470), 2024, [Source](https://arxiv.org/abs/2309.11998), 2024)
 - **80%**: Percentage of ML projects that fail due to issues with data quality and system reliability ([Source](https://www.tomshardware.com/tech-industry/artificial-intelligence/research-shows-more-than-80-of-ai-projects-fail-wasting-billions-of-dollars-in-capital-and-resources-report), 2024).
 - **60%**: Percentage of businesses using AI but which aren't developing ethical AI policies ([Source](https://www.venasolutions.com/blog/ai-statistics), 2024).
 - **10,000+**: Research papers on ML robustness ([Source](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html), 2024).
@@ -77,6 +77,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Books 📚
+- **[Introduction to AI Safety, Ethics, adn Society](https://www.youtube.com/watch?v=veYq6EWZyVc)** (2024), Dan Hendrycks
 - *"Reliable Machine Learning"* (2020) [Reliability, Engineering] by Erik Jones
 - *"Trustworthy AI"* (2021) [Ethics, Trustworthiness] by Beena Ammanath
 - *"Robust Machine Learning in Python"* (2022) [Robustness, Tools] by Sarah Bird
@@ -86,10 +87,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Lectures 🎓
-- **"Reliability in AI: Challenges and Solutions"** [Reliability, Challenges] - [MIT OpenCourseWare](https://ocw.mit.edu)
-- **"Robustness in Machine Learning"** [Robustness, Techniques] - [Stanford Online](https://online.stanford.edu)
-- **"Trustworthy AI Systems"** [Trustworthiness, Systems] - [DeepMind YouTube](https://www.youtube.com)
-- **"Uncertainty Estimation and Trust in ML"** [Uncertainty, Estimation] - [Cambridge University YouTube](https://www.youtube.com)
+- **[Introduction to Uncertainty in Deep Learning](https://www.gatsby.ucl.ac.uk/~balaji/balaji-uncertainty-talk-cifar-dlrl.pdf)** (2020) - NeurIPS Tutorial by Balaji Lakshminarayanan (Google Brain)
+- **[Practical Uncertainty Estimation and OOD Robustness in Deep Learning](https://www.youtube.com/watch?v=veYq6EWZyVc)** (2022) - MIT Lecture by Jaspaer Snoek (Google Brain)
 
 ---
 
