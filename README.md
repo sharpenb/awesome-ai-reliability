@@ -11,7 +11,7 @@ A curated list of resources about Machine Learning (ML) reliability. It covers t
 | **Uncertainty**   | Quantifying and managing uncertainty           | ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) |
 | **Bayesian**      | Bayesian approaches to ML                      | ![Bayesian](https://img.shields.io/badge/Bayesian-lime) |
 | **Robustness**    | Ensuring robustness to various conditions      | ![Robustness](https://img.shields.io/badge/Robustness-green) |
-| **Attacks**       | Exploring adversarial attacks                  | ![Attacks](https://img.shields.io/badge/Attacks-red) |
+| **Attack**       | Exploring adversarial attacks                  | ![Attack](https://img.shields.io/badge/Attack-red) |
 | **Defense**       | Defense mechanisms against vulnerabilities     | ![Defense](https://img.shields.io/badge/Defense-blue) |
 | **Privacy**       | Addressing privacy concerns in ML systems      | ![Privacy](https://img.shields.io/badge/Privacy-purple) |
 | **Fairness**      | Ensuring fairness and equity in AI             | ![Fairness](https://img.shields.io/badge/Fairness-teal) |
@@ -33,39 +33,40 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 
 ---
 
-## Facts/Numbers 📊
-- **$1 Trillion**: Estimated annual global economic impact of unreliable AI systems ([Source](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/the-state-of-ai-in-2023), 2023).
-- **80%**: Percentage of ML projects that fail due to issues with data quality and system reliability ([Source](https://venturebeat.com/ai/mlops-failure-rates-in-machine-learning/), 2023).
-- **60%**: Increase in regulatory frameworks targeting AI reliability since 2020 ([Source](https://www2.deloitte.com/insights/us/en/focus/tech-trends/2023/ai-governance.html), 2023).
-- **3,000+**: Research papers on ML reliability published annually ([Source](https://www.semanticscholar.org/), 2022).
+## Facts 📊
+- **Hundreds of millions of people now interact with**: Number of people interacting with AI models ([Source](https://arxiv.org/abs/2405.01470), 2024, [Source](https://arxiv.org/abs/2309.11998), 2024)
+- **80%**: Percentage of ML projects that fail due to issues with data quality and system reliability ([Source](https://www.tomshardware.com/tech-industry/artificial-intelligence/research-shows-more-than-80-of-ai-projects-fail-wasting-billions-of-dollars-in-capital-and-resources-report), 2024).
+- **60%**: Percentage of businesses using AI but which aren't developing ethical AI policies ([Source](https://www.venasolutions.com/blog/ai-statistics), 2024).
+- **10,000+**: Research papers on ML robustness ([Source](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html), 2024).
 
 ---
 
 ## Tools 🛠️
 - **[Uncertainty Baselines](https://github.com/google/uncertainty-baselines)**: High-quality implementations of standard and SOTA methods on a variety of tasks.
 - **[Uncertainty Toolbox](https://uncertainty-toolbox.github.io/)**: A Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization.
-- **[TensorFlow Model Analysis](https://www.tensorflow.org/tfx/guide/tfma)**: Framework for evaluating model fairness, robustness, and reliability.
+- **[RobustBench](https://robustbench.github.io/)**: A standardized benchmark for adversarial robustness.
+- **[TorchMetrics](https://lightning.ai/docs/torchmetrics/stable/)**: A collection of 100+ PyTorch metrics implementations and an easy-to-use API to create custom metrics.
 - **[Cleanlab](https://github.com/cleanlab/cleanlab)**: A Python library for finding and fixing label errors in datasets.
-- **[Robustness Gym](https://robustnessgym.com/)**: Tools for testing model performance across diverse scenarios.
 - **[DeepChecks](https://github.com/deepchecks/deepchecks)**: Comprehensive library for testing ML systems and datasets.
 
 ---
 
 ## Newspaper Articles 📰
-- *"The Dark Side of AI: How Reliability Issues Impact Society"* (2021) ![Robustness](https://img.shields.io/badge/Robustness-green) - [The New York Times](https://www.nytimes.com)
-- *"Why Reliable AI is a Business Necessity"* (2022) ![Reliability](https://img.shields.io/badge/Reliability-blue) ![Business Impact](https://img.shields.io/badge/Business_Impact-orange) - [Forbes](https://www.forbes.com)
-- *"Regulators are Closing In on AI Reliability"* (2023) ![Regulation](https://img.shields.io/badge/Regulation-red) ![Trustworthiness](https://img.shields.io/badge/Trustworthiness-purple) - [Financial Times](https://www.ft.com)
+- *"[Research shows more than 80% of AI projects fail, wasting billions of dollars in capital and resources: Report
+](https://www.tomshardware.com/tech-industry/artificial-intelligence/research-shows-more-than-80-of-ai-projects-fail-wasting-billions-of-dollars-in-capital-and-resources-report)"* (2024) - [Tom's Hardware](https://www.tomshardware.com/)
+- *"[80 AI Statistics Shaping Business in 2024](https://www.venasolutions.com/blog/ai-statistics)"* (2024) - [Vena Solutions](https://www.venasolutions.com/)
+- *"[OopsGPT](https://www.theatlantic.com/technology/archive/2024/07/searchgpt-openai-error/679248/?)"* (2024) - [The Atlantic](https://www.theatlantic.com/world/)
 
 ---
 
 ## Blog Articles 📝
-- *"How to Build Reliable AI Systems"* (2020) ![Reliability](https://img.shields.io/badge/Reliability-blue) ![Practical Applications](https://img.shields.io/badge/Practical_Applications-orange) - [Towards Data Science](https://towardsdatascience.com)
-- *"Reliability in Machine Learning: Lessons from Industry"* (2021) ![Industry Practices](https://img.shields.io/badge/Industry_Practices-lime) ![Trustworthiness](https://img.shields.io/badge/Trustworthiness-purple) - [Google AI Blog](https://ai.googleblog.com)
-- *"Top 10 Tools for ML Reliability Testing"* (2022) ![Tools](https://img.shields.io/badge/Tools-cyan) ![Testing](https://img.shields.io/badge/Testing-teal) ![Robustness](https://img.shields.io/badge/Robustness-green) - [Analytics Vidhya](https://www.analyticsvidhya.com)
+- *"[A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)"* (Maintained) ![Robustness](https://img.shields.io/badge/Robustness-green) ![Attack](https://img.shields.io/badge/Attack-red) ![Defense](https://img.shields.io/badge/Defense-blue) - [Nicholas Carlini](https://nicholas.carlini.com/)
+- *"[Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)"* (2019) ![Robustness](https://img.shields.io/badge/Robustness-green) ![Attack](https://img.shields.io/badge/Attack-red) ![Defense](https://img.shields.io/badge/Defense-blue) - [Nicholas Carlini](https://nicholas.carlini.com/)
 
 ---
 
 ## Research Articles 📄
+- *"[AI generates covertly racist decisions about people based on their dialect](https://www.nature.com/articles/s41586-024-07856-5)"* (2024) - [Nature](https://www.nature.com/)
 - *"Adversarial Robustness for Deep Learning"* (2019) [Robustness, Security] - [ArXiv](https://arxiv.org/abs/1905.01065)
 - *"Fairness and Robustness in AI Systems"* (2020) [Fairness, Robustness, Ethics] - [Nature Machine Intelligence](https://www.nature.com/natmachintell)
 - *"Uncertainty Quantification in ML"* (2021) [Uncertainty, Reliability] - [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org)
