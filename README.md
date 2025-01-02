@@ -66,23 +66,24 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Research Articles 📄
-- *"[AI generates covertly racist decisions about people based on their dialect](https://www.nature.com/articles/s41586-024-07856-5)"* (2024) - [Nature](https://www.nature.com/)
-- *"Adversarial Robustness for Deep Learning"* (2019) [Robustness, Security] - [ArXiv](https://arxiv.org/abs/1905.01065)
-- *"Fairness and Robustness in AI Systems"* (2020) [Fairness, Robustness, Ethics] - [Nature Machine Intelligence](https://www.nature.com/natmachintell)
-- *"Uncertainty Quantification in ML"* (2021) [Uncertainty, Reliability] - [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org)
-- *"Exploring Bayesian Methods in Uncertainty Quantification"* (2021) [Uncertainty, Bayesian Methods] - [Proceedings of Machine Learning Research](https://proceedings.mlr.press)
-- *"Energy-based Models for Out-of-Distribution Detection"* (2022) [Robustness, OOD Detection] - [NeurIPS](https://neurips.cc)
-- *"Graph Neural Networks: Robustness Under Adversarial Settings"* (2022) [Graph Learning, Robustness] - [ICLR](https://iclr.cc)
+- *"[AI generates covertly racist decisions about people based on their dialect](https://www.nature.com/articles/s41586-024-07856-5)"* (2024) ![Fairness](https://img.shields.io/badge/Fairness-teal) - [Nature](https://www.nature.com/)
+- *"[Training, Architecture, and Prior for Deterministic Uncertainty Methods?](https://openreview.net/forum?id=training-architecture-prior-dum)"* (2023) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Robustness](https://img.shields.io/badge/Robustness-green) - [TrustML - ICLR](https://iclr.cc/)
+- *"[Disentangling epistemic and aleatoric uncertainty in reinforcement learning](https://proceedings.mlr.press/v162/aleatoric-epistemic-uncertainty-rl.pdf)"* (2022) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Explainability](https://img.shields.io/badge/Explainability-cyan) - [DFUQ - ICML](https://icml.cc/)
+- *"[Natural posterior network: Deep Bayesian predictive uncertainty for exponential family distributions](https://openreview.net/forum?id=natpn)"* (2021) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - [ICLR](https://iclr.cc/)
+- *"[Graph posterior network: Bayesian predictive uncertainty for node classification](https://papers.nips.cc/paper/2021/file/graph-postnet.pdf)"* (2021) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - [NeurIPS](https://nips.cc/)
+- *"[Evaluating robustness of predictive uncertainty estimation: Are Dirichlet-based models reliable?](https://proceedings.mlr.press/v119/dbu-robustness.pdf)"* (2020) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Robustness](https://img.shields.io/badge/Robustness-green) - [ICML](https://icml.cc/)
+- *"[Posterior network: Uncertainty estimation without OOD samples via density-based pseudo-counts](https://papers.nips.cc/paper/2020/file/postnet.pdf)"* (2020) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - [NeurIPS](https://nips.cc/)
+- *"[Uncertainty on asynchronous time event prediction](https://papers.nips.cc/paper/2019/file/uncertainty-event-prediction.pdf)"* (2019) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - [NeurIPS](https://nips.cc/)
+
+
 
 ---
 
 ## Books 📚
 - **[Introduction to AI Safety, Ethics, adn Society](https://www.youtube.com/watch?v=veYq6EWZyVc)** (2024), Dan Hendrycks
-- *"Reliable Machine Learning"* (2020) [Reliability, Engineering] by Erik Jones
-- *"Trustworthy AI"* (2021) [Ethics, Trustworthiness] by Beena Ammanath
-- *"Robust Machine Learning in Python"* (2022) [Robustness, Tools] by Sarah Bird
-- *"Uncertainty in Deep Learning: A Practical Guide"* (2023) [Uncertainty, Methods] by Yarin Gal
-- *"Explainable AI and its Reliability"* (2022) [Explainability, Reliability] by Christoph Molnar
+- **[Uncertainty Estimation for Independent and Non-Independent Data](https://mediatum.ub.tum.de/doc/1705567/x8kpdzxccp0egtst8uh60kfj1.dissertation.pdf)** (2024) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Bayesian](https://img.shields.io/badge/Bayesian-lime), Bertrand Charpentier
+- **[Uncertainty in Deep Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/thesis/thesis.pdf)** (2016) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Bayesian](https://img.shields.io/badge/Bayesian-lime), Yarin Gal
+
 
 ---
 
@@ -97,10 +98,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 - **Stephan Günnemann** - Working in academia on robust machine learning and graph neural networks. [Website](https://www.professoren.tum.de/guennemann-stephan)
 - **Eyke Hüllermeier** - Working in academia on uncertainty quantification and decision theory. [Website](https://www.uni-paderborn.de/en/person/16348)
 - **Eric Nalisnick** - Working in academia on Bayesian deep learning and uncertainty estimation. [Website](https://www.cs.nott.ac.uk/~ean/)
-- **Andrew Ng** - Working in academia and industry on online education and ML reliability. [Twitter](https://twitter.com/andrewyng) | [LinkedIn](https://www.linkedin.com/in/andrewyng/) | [Website](https://www.andrewng.org/)
-- **Fei-Fei Li** - Working in academia on AI ethics and vision. [Twitter](https://twitter.com/feifeili) | [LinkedIn](https://www.linkedin.com/in/feifei-li/) | [Website](https://profiles.stanford.edu/fei-fei-li)
 - **Timnit Gebru** - Working in industry on fairness and ethical AI. [Twitter](https://twitter.com/timnitGebru) | [Website](https://www.dair-institute.org/)
-- **Ian Goodfellow** - Working in industry on adversarial robustness and ML security. [LinkedIn](https://www.linkedin.com/in/ian-goodfellow/) | [Website](https://www.iangoodfellow.com/)
 - **Yarin Gal** - Working in academia on Bayesian methods and predictive uncertainty. [Twitter](https://twitter.com/yarin_gal) | [Website](https://yarin-gal.com/)
 - **Zoubin Ghahramani** - Working in industry and academia on probabilistic models and Bayesian methods. [Twitter](https://twitter.com/zoubinghahramani) | [Website](https://mlg.eng.cam.ac.uk/zoubin/)
 - **Balaji Lakshminarayanan** - Working in industry on deep ensembles and predictive uncertainty. [LinkedIn](https://www.linkedin.com/in/balaji-lakshminarayanan/) | [Website](https://balajiln.github.io/)
@@ -122,7 +120,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 - **Joan Bruna** - Working in academia on robust and reliable graph neural networks. [Website](https://cims.nyu.edu/~bruna/)
 - **Percy Liang** - Working in academia on generalization and ML reliability. [Twitter](https://twitter.com/percyliang) | [Website](https://cs.stanford.edu/people/pliang/)
 - **Shakir Mohamed** - Working in industry on equitable and reliable AI systems. [Twitter](https://twitter.com/shakir_za) | [Website](https://shakirm.com/)
-- **Michael Jordan** - Working in academia on probabilistic modeling and ML reliability. [Website](https://jordanlab.cs.berkeley.edu/)
 - **Geoffrey Hinton** - Working in academia and industry on neural network reliability. [LinkedIn](https://www.linkedin.com/in/geoffrey-hinton/) | [Website](https://www.cs.toronto.edu/~hinton/)
 - **Max Welling** - Working in academia on scalable Bayesian methods and ML uncertainty. [Twitter](https://twitter.com/wellingmax) | [Website](https://staff.fnwi.uva.nl/m.welling/)
 - **Vladimir Vapnik** - Working in academia on generalization theories and SVMs. [Website](https://www.cs.columbia.edu/~vapnik/)
