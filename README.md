@@ -1,4 +1,4 @@
-# 🌟 Awesome ML Reliability 🌟
+# 🌟 Awesome AI Reliability 🌟
 
 ![Awesome](https://awesome.re/badge.svg) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)
 
