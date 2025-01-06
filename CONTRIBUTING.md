@@ -1,8 +1,8 @@
 # Contribution Guidelines
 
-This repository aims to collect high quality resources. Hence, it is appreciated if you can make clear why these resrouces are valuable (e.g. by making sure that articles are well sourced, reproducible, have codes...).
+This repository aims to collect high quality resources. Hence, it is appreciated if you can make clear why these resources are valuable (e.g. by making sure that articles are well sourced, reproducible, have codes...).
 
-## Submit to the **Awesome ML Reliability**` repository
+## Submit to the **Awesome AI Reliability**` repository
 1. **Fork the Repository**: Click the "Fork" button in the top-right corner of the repository page.
 2. **Clone Your Fork**: Clone the fork to your local machine.
    ```bash
@@ -41,4 +41,4 @@ Use badges for tags, ensuring they are relevant to the resource. The list of tag
 
 ## Acknowledgments
 
-This repository thrives on contributions from the community. Thank you for taking the time to improve **Awesome ML Reliability**. Your input makes this project better for everyone!
+This repository thrives on contributions from the community. Thank you for taking the time to improve **Awesome AI Reliability**. Your input makes this project better for everyone!
