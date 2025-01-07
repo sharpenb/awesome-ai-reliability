@@ -49,6 +49,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 - **[Cleanlab](https://github.com/cleanlab/cleanlab)**: A Python library for finding and fixing label errors in datasets.
 - **[DeepChecks](https://github.com/deepchecks/deepchecks)**: Comprehensive library for testing ML systems and datasets.
 - **[Laplace](https://github.com/AlexImmer/Laplace/)**: Flexible library for Laplace approximation for neural networks.
+- **[Crepes](https://github.com/henrikbostrom/crepes)**: Python package for conformal prediction that implements conformal classifiers, regressors, and predictive systems on top of any standard classifier and regressor.
 
 ---
 
