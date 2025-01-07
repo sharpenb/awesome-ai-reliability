@@ -66,6 +66,9 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Research Articles 📄
+- *"Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?"* (2024) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ICML
+- *"Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI"* (2024) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ICML
+- *"Bayesian Semi-structured Subspace Inference"* (2024) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - AIStats
 - *"AI generates covertly racist decisions about people based on their dialect"* (2024) ![Fairness](https://img.shields.io/badge/Fairness-teal) - Nature
 - *"Training, Architecture, and Prior for Deterministic Uncertainty Methods?"* (2023) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Robustness](https://img.shields.io/badge/Robustness-green) - TrustML - ICLR
 - *"Revisiting uncertainty estimation for node classification: New benchmark and insights"* (2023) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - OpenReview
@@ -130,6 +133,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 - **Eyke Hüllermeier** - Working in academia on uncertainty quantification and decision theory. 
 - **Viktor Bengs** - Working in academia on uncertainty quantification and decision theory.
 - **Eric Nalisnick** - Working in academia on Bayesian deep learning and uncertainty estimation.
+- **David Rügamer** - Working in academia on Bayesian/probabilistic deep learning and optimization. [Website](https://davidruegamer.github.io/)
+- **Emanuel Sommer** - Working in academia on (sampling-based) Bayesian deep learning. [Website](https://emanuelsommer.github.io/my-yourney/) | [LinkedIn](https://www.linkedin.com/in/emanuelsommer/)
 - **Timnit Gebru** - Working in industry on fairness and ethical AI.
 - **Yarin Gal** - Working in academia on Bayesian methods and predictive uncertainty.
 - **Zoubin Ghahramani** - Working in industry and academia on probabilistic models and Bayesian methods.
