@@ -175,77 +175,75 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 
 | Name | Affiliation | Research Interests | Social Media |
 |------|-------------|-------------------|--------------|
-| Agustinus Kristiadi | Postdoc, Vector Institute | Probabilistic Inference, Decision-making, Foundation Models, AI4Science, Riemmanian Geometry | - |
-| Aleksandar Bojchevski | University of Cologne | Machine Learning, Graphs/Networks, Trustworthy, Robustness, Uncertainty | - |
-| Alexander Amini | Computer Science, Massachusetts Institute of Technology | Deep Learning, Artificial Intelligence, Robotics, Big Data | - |
-| Alexander Immer | PhD student, ETH Zürich, Max Planck Institute for Intelligent Systems | Machine Learning, Approximate Bayesian Inference | - |
-| Aliaksandr Hubin | PhD, Associate Professor, University of Oslo, NMBU, OUC | Statistics, Artificial Intelligence, Applied Statistics, Machine Learning, Operations Research | - |
-| Amartya Sanyal, Ph.D. | Associate Professor, BITS-Pilani Hyderabad Campus, India | Genome Biology, Epigenetics, Genomics | - |
-| Andrew Gordon Wilson | New York University | Machine Learning, Computer Science, Artificial Intelligence, Gaussian Processes, Deep Learning | - |
-| Balaji Lakshminarayanan | Senior Staff Research Scientist at Google DeepMind | Machine Learning | - |
-| Bertrand Charpentier | Pruna AI, Ex-Technical University of Munich, Ex-Twitter | Machine Learning, Efficiency, Uncertainty, Causality, Hierarchy | - |
-| Christian Szegedy | Researcher | Deep learning, Formal reasoning | - |
-| Christopher Nemeth | Professor in Probabilistic Machine Learning, Lancaster University, UKRI Turing AI Fellow | Bayesian inference, Computational Statistics, Monte Carlo methods, Machine Learning, Statistics | - |
-| Dan Hendrycks | Director of the Center for AI Safety (advisor for xAI and Scale) | AI Safety, ML Reliability | - |
-| Daniel Zügner | Microsoft Research | Machine Learning, Deep Learning on Graphs | - |
-| David Dunson | Arts & Sciences Professor of Statistical Science & Mathematics | Bayesian statistics, machine learning, biostatistics, ecology, neuroscience | - |
-| David Rügamer | Professor at LMU Munich, PI at Munich Center for Machine Learning | Deep Learning, Uncertainty Quantification, Optimization, Statistics | - |
-| Dominik Fuchsgruber | PhD student, Technical University of Munich | machine learning, uncertainty estimation | - |
-| Dylan Slack | Google | deep learning, natural language processing, robustness | - |
-| Emanuel Sommer | PhD Candidate @ Data Science Group of the Department of Statistics, LMU Munich | Statistics, Machine Learning | - |
-| Eric C. Wong | Professor of Radiology and Psychiatry, University of California, San Diego | Magnetic Resonance Imaging, Arterial Spin Labeling, Functional MRI, Ultrafast MRI, Diffusion MRI | - |
-| Eric Nalisnick | Assistant Professor, Johns Hopkins University | Machine Learning | - |
-| Eyke Hüllermeier | Professor of Computer Science, Paderborn University | Artificial Intelligence, Machine Learning, Fuzzy Logic, Bioinformatics | - |
-| Fereshte Khani | OpenAI | machine learning, reliability, alignment, robustness, fairness | - |
-| François-Xavier Briol | Associate Professor in Statistical Science, UCL | Bayesian Computation, Statistical Machine Learning, Computational Statistics, Robustness | - |
-| Gautam Kamath | Assistant Professor @ University of Waterloo, Faculty Member @ Vector Institute | Statistics, Machine Learning, Privacy, Robustness | - |
-| Hadi Salman | OpenAI, MIT | Deep Learning, Robustness, Trustworthy ML, LLMs | - |
-| Johannes Gasteiger, né Klicpera | Anthropic | Machine Learning, AI Safety, Graphs, Robustness | - |
-| Josh Gardner | Apple | Machine Learning, Robustness, Multimodal, Tabular Data, Music and Audio | - |
-| José Miguel Hernández-Lobato | Professor of Machine Learning, University of Cambridge | Bayesian deep learning, approximate inference, deep generative modeling, automatic molecular design, reinforcement learning | - |
-| Julyan Arbel | Inria - Univ. Grenoble Alpes | Bayesian deep learning, Bayesian nonparametrics, Statistics | - |
-| Karen Simonyan | Chief Scientist, Microsoft AI | Artificial Intelligence, Deep Learning | - |
-| Konstantina Palla | Spotify | Machine Learning | - |
-| Laurence Aitchison | University of Bristol | Deep Learning | - |
-| Maksym Andriushchenko | Postdoctoral Researcher at EPFL | Generalization, Robustness, AI Safety, LLMs | - |
-| Maria Skoularidou, PhD | Postdoctoral Fellow, Schmidt Center, The Broad Institute of M.I.T. and Harvard | Diffusion Models, Probabilistic Machine Learning, Computational Genomics and Imaging, Bayesian | - |
-| Maurizio Filippone | Associate Professor - Statistics Program, KAUST | Bayesian Deep Learning, Gaussian Processes, Bayesian Inference, Computational Statistics | - |
-| Max Welling | CAIO CuspAI &  Professor Machine Learning, University of Amsterdam | Machine Learning, Artificial Intelligence, Statistics | - |
-| Michael A Osborne | Professor of Machine Learning, University of Oxford | Machine Learning, Technological Change, Probabilistic Numerics, Bayesian Optimization, Gaussian Processes | - |
-| Mohammad Emtiyaz Khan | Center for Advanced Intelligence Project (AIP), RIKEN, Tokyo | Machine Learning, Approximate Bayesian Inference, Deep Learning, Artificial Intelligence | - |
-| Natalie Dullerud | Ph.D. Student, Stanford University | machine learning, fairness, privacy, robustness | - |
-| Nazneen Rajani | Hugging Face | Evaluation, Robustness, Interpretability, Natural Language Processing, Deep Learning | - |
-| Nicholas Carlini | Google DeepMind |  | - |
-| Nick Bostrom | Professor, Director of the Future of Humanity Institute, Oxford University | Philosophy, Artificial Intelligence, Ethics, Technology | - |
-| Nick Pawlowski | Senior Researcher, Microsoft Research | Uncertainty Quantification, Causality, Robustness, Bayesian Deep Learning, Medical Image Analysis | - |
-| Philipp Hennig | University of Tübingen | Probabilistic Numerics, Machine Learning, Computer Science | - |
-| Polina Kirichenko | New York University | Deep Learning, Robustness, Uncertainty Estimation, Generative Models | - |
-| Prof. Dr. Jan Philipp Schuchardt | Leibniz University of Hannover, Institute of Food and One Health, Dep. Nutrition Physiology |  | - |
-| Robert Geirhos | Research Scientist, Google DeepMind | Understanding DNNs, Deep Learning, Robustness, Human Vision, Psychophysics | - |
-| Ruqi Zhang | Assistant Professor of Computer Science, Purdue University | Machine Learning, Artificial Intelligence, Deep Learning, Statistics | - |
-| Sara Hooker | Head of Cohere For AI | Machine learning efficiency, robustness, interpretability, trustworthy ML | - |
-| Serena Wang | UC Berkeley | machine learning, robustness, optimization, algorithms and society, causal inference | - |
-| Seyed-Hassan Miraei Ashtiani | PhD in Biosystems Engineering | Food Safety, Postharvest Engineering, Digital Agriculture, Artificial Intelligence | - |
-| Shaokai Ye | EPFL | LLM agents, Foundation models, Robustness, Model Compression | - |
-| Simon Batzner | Google DeepMind | Deep Learning, Robustness, Graph Neural Networks, Physics | - |
-| Souradip Chakraborty | University of Maryland, College Park | Past : ML Research@Walmart Labs | Reinforcement Learning, Deep Learning, Robustness, Uncertainty | - |
-| Stephan Günnemann | Professor of Computer Science, Technical University of Munich | Machine Learning, Graphs, Graph Neural Networks, Robustness | - |
-| Stephan Günnemann | Professor of Computer Science, Technical University of Munich | Machine Learning, Graphs, Graph Neural Networks, Robustness | - |
-| Stephan Mandt | Associate Professor, University of California, Irvine | Machine Learning, Variational Inference, Neural Data Compression, ML for Science, Generative Models | - |
-| Stephen Casper | PhD student, MIT | AI safety, AI responsibility, red-teaming, robustness, auditing | - |
-| Sushrut Karmalkar | University of Wisconsin-Madison | Algorithms, Complexity, Regression, Robustness | - |
-| Theodore Papamarkou | Distinguished professor, Zhejiang Normal University | Bayesian deep learning, Topological deep learning, Computing for healthcare | - |
-| Theofanis Karaletsos | Head of AI, CZI-Science | Machine Learning, Probabilistic Modeling, Computer Vision, Computational Biology, Computational | - |
-| Tim G. J. Rudner | Faculty Fellow, New York University | Robust Machine Learning, Uncertainty Quantification, Technical AI Governance, ML for Health | - |
-| Timnit Gebru | Google | fairness | - |
-| Tom Wollschläger | PhD Student in Machine Learning, TUM | machine learning, graph neural networks, quantum machine learning, uncertainty and robustness | - |
-| Vignesh Srinivasan | Fraunhofer HHI | Machine Learning, Artificial Intelligence, Robustness | - |
-| Viktor Bengs | LMU Munich | Bandit algorithms, Preference learning, Algorithm configuration, Change-point problems | - |
-| Vincent Fortuin | Principal Investigator, Helmholtz AI & TU Munich | Bayesian deep learning, Deep generative AI, PAC-Bayes | - |
-| Yarin Gal | Associate Professor, University of Oxford | Machine Learning, Artificial Intelligence, Probability Theory, Statistics | - |
-| Yee Whye Teh | Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind | Machine Learning, Artificial Intelligence, Statistics, Computer Science | - |
-| Ying Zhen Li | RISE Research Institutes of Sweden | tunnel fire, fire dynamics, alternative fuel vehicle safety, scaling, CFD modelling | - |
-| Zoubin Ghahramani | Professor, University of Cambridge, and Distinguished Researcher, Google | Machine Learning, Bayesian Statistics, Neural Networks, Artificial Intelligence | - |
+| **Agustinus Kristiadi** | Postdoc, Vector Institute | <small>Probabilistic Inference, Decision-making, Foundation Models, AI4Science, Riemmanian Geometry</small> | - |
+| **Aleksandar Bojchevski** | University of Cologne | <small>Machine Learning, Graphs/Networks, Trustworthy, Robustness, Uncertainty</small> | - |
+| **Alexander Amini** | Computer Science, Massachusetts Institute of Technology | <small>Deep Learning, Artificial Intelligence, Robotics, Big Data</small> | - |
+| **Alexander Immer** | PhD student, ETH Zürich, Max Planck Institute for Intelligent Systems | <small>Machine Learning, Approximate Bayesian Inference</small> | - |
+| **Aliaksandr Hubin** | PhD, Associate Professor, University of Oslo, NMBU, OUC | <small>Statistics, Artificial Intelligence, Applied Statistics, Machine Learning, Operations Research</small> | - |
+| **Amartya Sanyal, Ph.D.** | Associate Professor, BITS-Pilani Hyderabad Campus, India | <small>Genome Biology, Epigenetics, Genomics</small> | - |
+| **Andrew Gordon Wilson** | New York University | <small>Machine Learning, Computer Science, Artificial Intelligence, Gaussian Processes, Deep Learning</small> | - |
+| **Balaji Lakshminarayanan** | Senior Staff Research Scientist at Google DeepMind | <small>Machine Learning</small> | - |
+| **Bertrand Charpentier** | Pruna AI, Ex-Technical University of Munich, Ex-Twitter | <small>Machine Learning, Efficiency, Uncertainty, Causality, Hierarchy</small> | - |
+| **Christian Szegedy** | Researcher | <small>Deep learning, Formal reasoning</small> | - |
+| **Christopher Nemeth** | Professor in Probabilistic Machine Learning, Lancaster University, UKRI Turing AI Fellow | <small>Bayesian inference, Computational Statistics, Monte Carlo methods, Machine Learning, Statistics</small> | - |
+| **Dan Hendrycks** | Director of the Center for AI Safety (advisor for xAI and Scale) | <small>AI Safety, ML Reliability</small> | - |
+| **Daniel Zügner** | Microsoft Research | <small>Machine Learning, Deep Learning on Graphs</small> | - |
+| **David Dunson** | Arts & Sciences Professor of Statistical Science & Mathematics | <small>Bayesian statistics, machine learning, biostatistics, ecology, neuroscience</small> | - |
+| **David Rügamer** | Professor at LMU Munich, PI at Munich Center for Machine Learning | <small>Deep Learning, Uncertainty Quantification, Optimization, Statistics</small> | - |
+| **Dominik Fuchsgruber** | PhD student, Technical University of Munich | <small>machine learning, uncertainty estimation</small> | - |
+| **Dylan Slack** | Google | <small>deep learning, natural language processing, robustness</small> | - |
+| **Emanuel Sommer** | PhD Candidate @ Data Science Group of the Department of Statistics, LMU Munich | <small>Statistics, Machine Learning</small> | - |
+| **Eric C. Wong** | Professor of Radiology and Psychiatry, University of California, San Diego | <small>Magnetic Resonance Imaging, Arterial Spin Labeling, Functional MRI, Ultrafast MRI, Diffusion MRI</small> | - |
+| **Eric Nalisnick** | Assistant Professor, Johns Hopkins University | <small>Machine Learning</small> | - |
+| **Eyke Hüllermeier** | Professor of Computer Science, Paderborn University | <small>Artificial Intelligence, Machine Learning, Fuzzy Logic, Bioinformatics</small> | - |
+| **Fereshte Khani** | OpenAI | <small>machine learning, reliability, alignment, robustness, fairness</small> | - |
+| **François-Xavier Briol** | Associate Professor in Statistical Science, UCL | <small>Bayesian Computation, Statistical Machine Learning, Computational Statistics, Robustness</small> | - |
+| **Gautam Kamath** | Assistant Professor @ University of Waterloo, Faculty Member @ Vector Institute | <small>Statistics, Machine Learning, Privacy, Robustness</small> | - |
+| **Hadi Salman** | OpenAI, MIT | <small>Deep Learning, Robustness, Trustworthy ML, LLMs</small> | - |
+| **Johannes Gasteiger, né Klicpera** | Anthropic | <small>Machine Learning, AI Safety, Graphs, Robustness</small> | - |
+| **Josh Gardner** | Apple | <small>Machine Learning, Robustness, Multimodal, Tabular Data, Music and Audio</small> | - |
+| **José Miguel Hernández-Lobato** | Professor of Machine Learning, University of Cambridge | <small>Bayesian deep learning, approximate inference, deep generative modeling, automatic molecular design, reinforcement learning</small> | - |
+| **Julyan Arbel** | Inria - Univ. Grenoble Alpes | <small>Bayesian deep learning, Bayesian nonparametrics, Statistics</small> | - |
+| **Karen Simonyan** | Chief Scientist, Microsoft AI | <small>Artificial Intelligence, Deep Learning</small> | - |
+| **Konstantina Palla** | Spotify | <small>Machine Learning</small> | - |
+| **Laurence Aitchison** | University of Bristol | <small>Deep Learning</small> | - |
+| **Maksym Andriushchenko** | Postdoctoral Researcher at EPFL | <small>Generalization, Robustness, AI Safety, LLMs</small> | - |
+| **Maria Skoularidou,** | Postdoctoral Fellow, Schmidt Center, The Broad Institute of M.I.T. and Harvard | <small>Diffusion Models, Probabilistic Machine Learning, Computational Genomics and Imaging, Bayesian</small> | - |
+| **Maurizio Filippone** | Associate Professor - Statistics Program, KAUST | <small>Bayesian Deep Learning, Gaussian Processes, Bayesian Inference, Computational Statistics</small> | - |
+| **Max Welling** | CAIO CuspAI &  Professor Machine Learning, University of Amsterdam | <small>Machine Learning, Artificial Intelligence, Statistics</small> | - |
+| **Michael A Osborne** | Professor of Machine Learning, University of Oxford | <small>Machine Learning, Technological Change, Probabilistic Numerics, Bayesian Optimization, Gaussian Processes</small> | - |
+| **Mohammad Emtiyaz Khan** | Center for Advanced Intelligence Project (AIP), RIKEN, Tokyo | <small>Machine Learning, Approximate Bayesian Inference, Deep Learning, Artificial Intelligence</small> | - |
+| **Natalie Dullerud** | Ph.D. Student, Stanford University | <small>machine learning, fairness, privacy, robustness</small> | - |
+| **Nazneen Rajani** | Hugging Face | <small>Evaluation, Robustness, Interpretability, Natural Language Processing, Deep Learning</small> | - |
+| **Nicholas Carlini** | Google DeepMind | <small></small> | - |
+| **Nick Bostrom** | Professor, Director of the Future of Humanity Institute, Oxford University | <small>Philosophy, Artificial Intelligence, Ethics, Technology</small> | - |
+| **Nick Pawlowski** | Senior Researcher, Microsoft Research | <small>Uncertainty Quantification, Causality, Robustness, Bayesian Deep Learning, Medical Image Analysis</small> | - |
+| **Philipp Hennig** | University of Tübingen | <small>Probabilistic Numerics, Machine Learning, Computer Science</small> | - |
+| **Polina Kirichenko** | New York University | <small>Deep Learning, Robustness, Uncertainty Estimation, Generative Models</small> | - |
+| **Robert Geirhos** | Research Scientist, Google DeepMind | <small>Understanding DNNs, Deep Learning, Robustness, Human Vision, Psychophysics</small> | - |
+| **Ruqi Zhang** | Assistant Professor of Computer Science, Purdue University | <small>Machine Learning, Artificial Intelligence, Deep Learning, Statistics</small> | - |
+| **Sara Hooker** | Head of Cohere For AI | <small>Machine learning efficiency, robustness, interpretability, trustworthy ML</small> | - |
+| **Serena Wang** | UC Berkeley | <small>machine learning, robustness, optimization, algorithms and society, causal inference</small> | - |
+| **Seyed-Hassan Miraei Ashtiani** | PhD in Biosystems Engineering | <small>Food Safety, Postharvest Engineering, Digital Agriculture, Artificial Intelligence</small> | - |
+| **Shaokai Ye** | EPFL | <small>LLM agents, Foundation models, Robustness, Model Compression</small> | - |
+| **Simon Batzner** | Google DeepMind | <small>Deep Learning, Robustness, Graph Neural Networks, Physics</small> | - |
+| **Souradip Chakraborty** | University of Maryland, College Park | Past : ML Research@Walmart Labs | <small>Reinforcement Learning, Deep Learning, Robustness, Uncertainty</small> | - |
+| **Stephan Günnemann** | Professor of Computer Science, Technical University of Munich | <small>Machine Learning, Graphs, Graph Neural Networks, Robustness</small> | - |
+| **Stephan Mandt** | Associate Professor, University of California, Irvine | <small>Machine Learning, Variational Inference, Neural Data Compression, ML for Science, Generative Models</small> | - |
+| **Stephen Casper** | PhD student, MIT | <small>AI safety, AI responsibility, red-teaming, robustness, auditing</small> | - |
+| **Sushrut Karmalkar** | University of Wisconsin-Madison | <small>Algorithms, Complexity, Regression, Robustness</small> | - |
+| **Theodore Papamarkou** | Distinguished professor, Zhejiang Normal University | <small>Bayesian deep learning, Topological deep learning, Computing for healthcare</small> | - |
+| **Theofanis Karaletsos** | Head of AI, CZI-Science | <small>Machine Learning, Probabilistic Modeling, Computer Vision, Computational Biology, Computational</small> | - |
+| **Tim G. J. Rudner** | Faculty Fellow, New York University | <small>Robust Machine Learning, Uncertainty Quantification, Technical AI Governance, ML for Health</small> | - |
+| **Timnit Gebru** | Google | <small>fairness</small> | - |
+| **Tom Wollschläger** | PhD Student in Machine Learning, TUM | <small>machine learning, graph neural networks, quantum machine learning, uncertainty and robustness</small> | - |
+| **Vignesh Srinivasan** | Fraunhofer HHI | <small>Machine Learning, Artificial Intelligence, Robustness</small> | - |
+| **Viktor Bengs** | LMU Munich | <small>Bandit algorithms, Preference learning, Algorithm configuration, Change-point problems</small> | - |
+| **Vincent Fortuin** | Principal Investigator, Helmholtz AI & TU Munich | <small>Bayesian deep learning, Deep generative AI, PAC-Bayes</small> | - |
+| **Yarin Gal** | Associate Professor, University of Oxford | <small>Machine Learning, Artificial Intelligence, Probability Theory, Statistics</small> | - |
+| **Yee Whye Teh** | Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind | <small>Machine Learning, Artificial Intelligence, Statistics, Computer Science</small> | - |
+| **Ying Zhen Li** | RISE Research Institutes of Sweden | <small>tunnel fire, fire dynamics, alternative fuel vehicle safety, scaling, CFD modelling</small> | - |
+| **Zoubin Ghahramani** | Professor, University of Cambridge, and Distinguished Researcher, Google | <small>Machine Learning, Bayesian Statistics, Neural Networks, Artificial Intelligence</small> | - |
 
 ---
 
