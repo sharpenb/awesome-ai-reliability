@@ -184,7 +184,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **Amini Mitamo Alexandre** | Junior Lecturer, Université Catholique du Graben | <sub>Urology</sub> | - |
 | **Andrew Gordon Wilson** | New York University | <sub>Machine Learning, Computer Science, Artificial Intelligence, Gaussian Processes, Deep Learning</sub> | - |
 | **Balaji Lakshminarayanan** | Senior Staff Research Scientist at Google DeepMind | <sub>Machine Learning</sub> | - |
-| **Bertrand Charpentier** | Pruna AI, Ex-Technical University of Munich, Ex-Twitter | <sub>Machine Learning, Efficiency, Uncertainty, Causality, Hierarchy</sub> | <sub>[Website](https://sharpenb.github.io/) | [Twitter](https://x.com/Bertrand_Charp) | [Bluesky](https://bsky.app/profile/bertrand-sharp.bsky.social) | [LinkedIn](https://www.linkedin.com/in/bertrand-charpentier-76995ab6/)</sub> |
+| **Bertrand Charpentier** | Pruna AI, Ex-Technical University of Munich, Ex-Twitter | <sub>Machine Learning, Efficiency, Uncertainty, Causality, Hierarchy</sub> | <sub>[Website](https://sharpenb.github.io/) - [Twitter](https://x.com/Bertrand_Charp) - [Bluesky](https://bsky.app/profile/bertrand-sharp.bsky.social) - [LinkedIn](https://www.linkedin.com/in/bertrand-charpentier-76995ab6/)</sub> |
 | **Christian Szegedy** | Researcher | <sub>Deep learning, Formal reasoning</sub> | - |
 | **Christopher Nemeth** | Professor in Probabilistic Machine Learning, Lancaster University, UKRI Turing AI Fellow | <sub>Bayesian inference, Computational Statistics, Monte Carlo methods, Machine Learning, Statistics</sub> | - |
 | **Dan Hendrycks** | Director of the Center for AI Safety (advisor for xAI and Scale) | <sub>AI Safety, ML Reliability</sub> | - |
@@ -193,7 +193,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **David Rügamer** | Professor at LMU Munich, PI at Munich Center for Machine Learning | <sub>Deep Learning, Uncertainty Quantification, Optimization, Statistics</sub> | <sub>[Website](https://davidruegamer.github.io/)</sub> |
 | **Dominik Fuchsgruber** | PhD student, Technical University of Munich | <sub>machine learning, uncertainty estimation</sub> | - |
 | **Dylan Wiwad** | Slack | <sub>Socioeconomic Inequality, Psychometrics, Item Response Theory, Prosocial behavior, Political Ideology</sub> | - |
-| **Emanuel Sommer** | PhD Candidate @ Data Science Group of the Department of Statistics, LMU Munich | <sub>Statistics, Machine Learning</sub> | <sub>[Website](https://emanuelsommer.github.io/my-yourney/) | [LinkedIn](https://www.linkedin.com/in/emanuelsommer/)</sub> |
+| **Emanuel Sommer** | PhD Candidate @ Data Science Group of the Department of Statistics, LMU Munich | <sub>Statistics, Machine Learning</sub> | <sub>[Website](https://emanuelsommer.github.io/my-yourney/) - [LinkedIn](https://www.linkedin.com/in/emanuelsommer/)</sub> |
 | **Eric Nalisnick** | Assistant Professor, Johns Hopkins University | <sub>Machine Learning</sub> | - |
 | **Eric Wong** | University of Pennsylvania | <sub>Reliable Machine Learning, Optimization, Explainability, Robustness, Debugging</sub> | - |
 | **Eyke Hüllermeier** | Professor of Computer Science, Paderborn University | <sub>Artificial Intelligence, Machine Learning, Fuzzy Logic, Bioinformatics</sub> | - |
