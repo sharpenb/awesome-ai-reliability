@@ -206,24 +206,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **Yingzhen Li** | Imperial College London | <sub>Artificial Intelligence, Machine Learning, Statistics</sub> | - |
 | **Zoubin Ghahramani** | Professor, University of Cambridge, and Distinguished Researcher, Google | <sub>Machine Learning, Bayesian Statistics, Neural Networks, Artificial Intelligence</sub> | - |
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        <h3>Citations per Author</h3>
-        <img src="citations_per_author.png" width="400"/>
-    </div>
-    <div style="flex: 1;">
-        <h3>Citations Distribution by Year</h3>
-        <img src="citations_by_year.png" width="400"/>
-    </div>
-    <div style="flex: 1;">
-        <h3>Author Network</h3>
-        <img src="author_network.png" width="400"/>
-    </div>
-</div>
-
-<img src="citations_per_author.png" width="400"/>
-<img src="coauthorship_network.png" width="400"/>
-<img src="citations_per_author.png" width="400"/>
+<img src="combined_plots.png" width="800"/>
 
 ---
 
