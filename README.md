@@ -180,26 +180,29 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **Alexander Amini** | Computer Science, Massachusetts Institute of Technology | <sub>Deep Learning, Artificial Intelligence, Robotics, Big Data</sub> | - |
 | **Alexander Immer** | PhD student, ETH Zürich, Max Planck Institute for Intelligent Systems | <sub>Machine Learning, Approximate Bayesian Inference</sub> | - |
 | **Aliaksandr Hubin** | PhD, Associate Professor, University of Oslo, NMBU, OUC | <sub>Statistics, Artificial Intelligence, Applied Statistics, Machine Learning, Operations Research</sub> | - |
-| **Amartya Sanyal,** | Associate Professor, BITS-Pilani Hyderabad Campus, India | <sub>Genome Biology, Epigenetics, Genomics</sub> | - |
+| **Amartya Sanyal** | University of Copenhagen | <sub>Privacy, Machine Learning, Adversarial Learning, Learning Theory, Robustness</sub> | - |
+| **Amini Mitamo Alexandre** | Junior Lecturer, Université Catholique du Graben | <sub>Urology</sub> | - |
 | **Andrew Gordon Wilson** | New York University | <sub>Machine Learning, Computer Science, Artificial Intelligence, Gaussian Processes, Deep Learning</sub> | - |
 | **Balaji Lakshminarayanan** | Senior Staff Research Scientist at Google DeepMind | <sub>Machine Learning</sub> | - |
-| **Bertrand Charpentier** | Pruna AI, Ex-Technical University of Munich, Ex-Twitter | <sub>Machine Learning, Efficiency, Uncertainty, Causality, Hierarchy</sub> | - |
+| **Bertrand Charpentier** | Pruna AI, Ex-Technical University of Munich, Ex-Twitter | <sub>Machine Learning, Efficiency, Uncertainty, Causality, Hierarchy</sub> | <sub>[Website](https://sharpenb.github.io/) | [Twitter](https://x.com/Bertrand_Charp) | [Bluesky](https://bsky.app/profile/bertrand-sharp.bsky.social) | [LinkedIn](https://www.linkedin.com/in/bertrand-charpentier-76995ab6/)</sub> |
 | **Christian Szegedy** | Researcher | <sub>Deep learning, Formal reasoning</sub> | - |
 | **Christopher Nemeth** | Professor in Probabilistic Machine Learning, Lancaster University, UKRI Turing AI Fellow | <sub>Bayesian inference, Computational Statistics, Monte Carlo methods, Machine Learning, Statistics</sub> | - |
 | **Dan Hendrycks** | Director of the Center for AI Safety (advisor for xAI and Scale) | <sub>AI Safety, ML Reliability</sub> | - |
 | **Daniel Zügner** | Microsoft Research | <sub>Machine Learning, Deep Learning on Graphs</sub> | - |
 | **David Dunson** | Arts & Sciences Professor of Statistical Science & Mathematics | <sub>Bayesian statistics, machine learning, biostatistics, ecology, neuroscience</sub> | - |
-| **David Rügamer** | Professor at LMU Munich, PI at Munich Center for Machine Learning | <sub>Deep Learning, Uncertainty Quantification, Optimization, Statistics</sub> | - |
+| **David Rügamer** | Professor at LMU Munich, PI at Munich Center for Machine Learning | <sub>Deep Learning, Uncertainty Quantification, Optimization, Statistics</sub> | <sub>[Website](https://davidruegamer.github.io/)</sub> |
 | **Dominik Fuchsgruber** | PhD student, Technical University of Munich | <sub>machine learning, uncertainty estimation</sub> | - |
-| **Dylan Slack** | Google | <sub>deep learning, natural language processing, robustness</sub> | - |
-| **Emanuel Sommer** | PhD Candidate @ Data Science Group of the Department of Statistics, LMU Munich | <sub>Statistics, Machine Learning</sub> | - |
-| **Eric C. Wong** | Professor of Radiology and Psychiatry, University of California, San Diego | <sub>Magnetic Resonance Imaging, Arterial Spin Labeling, Functional MRI, Ultrafast MRI, Diffusion MRI</sub> | - |
+| **Dylan Wiwad** | Slack | <sub>Socioeconomic Inequality, Psychometrics, Item Response Theory, Prosocial behavior, Political Ideology</sub> | - |
+| **Emanuel Sommer** | PhD Candidate @ Data Science Group of the Department of Statistics, LMU Munich | <sub>Statistics, Machine Learning</sub> | <sub>[Website](https://emanuelsommer.github.io/my-yourney/) | [LinkedIn](https://www.linkedin.com/in/emanuelsommer/)</sub> |
 | **Eric Nalisnick** | Assistant Professor, Johns Hopkins University | <sub>Machine Learning</sub> | - |
+| **Eric Wong** | University of Pennsylvania | <sub>Reliable Machine Learning, Optimization, Explainability, Robustness, Debugging</sub> | - |
 | **Eyke Hüllermeier** | Professor of Computer Science, Paderborn University | <sub>Artificial Intelligence, Machine Learning, Fuzzy Logic, Bioinformatics</sub> | - |
 | **Fereshte Khani** | OpenAI | <sub>machine learning, reliability, alignment, robustness, fairness</sub> | - |
 | **François-Xavier Briol** | Associate Professor in Statistical Science, UCL | <sub>Bayesian Computation, Statistical Machine Learning, Computational Statistics, Robustness</sub> | - |
 | **Gautam Kamath** | Assistant Professor @ University of Waterloo, Faculty Member @ Vector Institute | <sub>Statistics, Machine Learning, Privacy, Robustness</sub> | - |
 | **Hadi Salman** | OpenAI, MIT | <sub>Deep Learning, Robustness, Trustworthy ML, LLMs</sub> | - |
+| **Hassan Ashtiani** | McMaster University | <sub>Machine Learning, Statistics, Privacy, Robustness</sub> | - |
+| **Jan Schuchardt** | Technical University of Munich | <sub>Adversarial Robustness, Graph Machine Learning, Geometric Machine Learning, Differential Privacy</sub> | - |
 | **Johannes Gasteiger, né Klicpera** | Anthropic | <sub>Machine Learning, AI Safety, Graphs, Robustness</sub> | - |
 | **Josh Gardner** | Apple | <sub>Machine Learning, Robustness, Multimodal, Tabular Data, Music and Audio</sub> | - |
 | **José Miguel Hernández-Lobato** | Professor of Machine Learning, University of Cambridge | <sub>Bayesian deep learning, approximate inference, deep generative modeling, automatic molecular design, reinforcement learning</sub> | - |
@@ -220,12 +223,11 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **Nick Pawlowski** | Senior Researcher, Microsoft Research | <sub>Uncertainty Quantification, Causality, Robustness, Bayesian Deep Learning, Medical Image Analysis</sub> | - |
 | **Philipp Hennig** | University of Tübingen | <sub>Probabilistic Numerics, Machine Learning, Computer Science</sub> | - |
 | **Polina Kirichenko** | New York University | <sub>Deep Learning, Robustness, Uncertainty Estimation, Generative Models</sub> | - |
-| **Jan Philipp Schuchardt** | Leibniz University of Hannover, Institute of Food and One Health, Dep. Nutrition Physiology | <sub></sub> | - |
+| **Rob Romijnders** | PhD with Max Welling, Christos Louizos, Yuki M Asano, sponsored by Qualcomm; prev. Google Research | <sub>Differential Privacy, Representation learning, Statistical Methods, Information Theory</sub> | - |
 | **Robert Geirhos** | Research Scientist, Google DeepMind | <sub>Understanding DNNs, Deep Learning, Robustness, Human Vision, Psychophysics</sub> | - |
 | **Ruqi Zhang** | Assistant Professor of Computer Science, Purdue University | <sub>Machine Learning, Artificial Intelligence, Deep Learning, Statistics</sub> | - |
 | **Sara Hooker** | Head of Cohere For AI | <sub>Machine learning efficiency, robustness, interpretability, trustworthy ML</sub> | - |
 | **Serena Wang** | UC Berkeley | <sub>machine learning, robustness, optimization, algorithms and society, causal inference</sub> | - |
-| **Seyed-Hassan Miraei Ashtiani** | PhD in Biosystems Engineering | <sub>Food Safety, Postharvest Engineering, Digital Agriculture, Artificial Intelligence</sub> | - |
 | **Shaokai Ye** | EPFL | <sub>LLM agents, Foundation models, Robustness, Model Compression</sub> | - |
 | **Simon Batzner** | Google DeepMind | <sub>Deep Learning, Robustness, Graph Neural Networks, Physics</sub> | - |
 | **Souradip Chakraborty** | University of Maryland, College Park - Past : ML Research@Walmart Labs | <sub>Reinforcement Learning, Deep Learning, Robustness, Uncertainty</sub> | - |
@@ -243,7 +245,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **Vincent Fortuin** | Principal Investigator, Helmholtz AI & TU Munich | <sub>Bayesian deep learning, Deep generative AI, PAC-Bayes</sub> | - |
 | **Yarin Gal** | Associate Professor, University of Oxford | <sub>Machine Learning, Artificial Intelligence, Probability Theory, Statistics</sub> | - |
 | **Yee Whye Teh** | Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind | <sub>Machine Learning, Artificial Intelligence, Statistics, Computer Science</sub> | - |
-| **Ying Zhen Li** | RISE Research Institutes of Sweden | <sub>tunnel fire, fire dynamics, alternative fuel vehicle safety, scaling, CFD modelling</sub> | - |
+| **Yingzhen Li** | Imperial College London | <sub>Artificial Intelligence, Machine Learning, Statistics</sub> | - |
 | **Zoubin Ghahramani** | Professor, University of Cambridge, and Distinguished Researcher, Google | <sub>Machine Learning, Bayesian Statistics, Neural Networks, Artificial Intelligence</sub> | - |
 
 ---
