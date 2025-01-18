@@ -206,6 +206,10 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 | **Yingzhen Li** | Imperial College London | <sub>Artificial Intelligence, Machine Learning, Statistics</sub> | - |
 | **Zoubin Ghahramani** | Professor, University of Cambridge, and Distinguished Researcher, Google | <sub>Machine Learning, Bayesian Statistics, Neural Networks, Artificial Intelligence</sub> | - |
 
+![Citations per Year](citations_by_year.png.png)
+![Coauthorship Network](coauthorship_network.png)
+![Citations per Author](citations_per_author.png)
+
 ---
 
 ## Contributing 🤝
