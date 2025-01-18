@@ -130,48 +130,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## People 🧑‍💻
-- **Bertrand Charpentier** - Working in academia and industry on Bayesian deep learning and uncertainty estimation. [Website](https://sharpenb.github.io/) | [Twitter](https://x.com/Bertrand_Charp) | [Bluesky](https://bsky.app/profile/bertrand-sharp.bsky.social) | [LinkedIn](https://www.linkedin.com/in/bertrand-charpentier-76995ab6/)
-- **Stephan Günnemann** - Working in academia on robust machine learning and graph neural networks. 
-- **Eyke Hüllermeier** - Working in academia on uncertainty quantification and decision theory. 
-- **Viktor Bengs** - Working in academia on uncertainty quantification and decision theory.
-- **Eric Nalisnick** - Working in academia on Bayesian deep learning and uncertainty estimation.
-- **David Rügamer** - Working in academia on Bayesian/probabilistic deep learning and optimization. [Website](https://davidruegamer.github.io/)
-- **Emanuel Sommer** - Working in academia on (sampling-based) Bayesian deep learning. [Website](https://emanuelsommer.github.io/my-yourney/) | [LinkedIn](https://www.linkedin.com/in/emanuelsommer/)
-- **Timnit Gebru** - Working in industry on fairness and ethical AI.
-- **Yarin Gal** - Working in academia on Bayesian methods and predictive uncertainty.
-- **Zoubin Ghahramani** - Working in industry and academia on probabilistic models and Bayesian methods.
-- **Balaji Lakshminarayanan** - Working in industry on deep ensembles and predictive uncertainty.
-- **Dan Hendrycks** - Working in academia on robustness to distribution shifts and ML reliability.
-- **Alexander Amini** - Working in academia on evidential learning and autonomous systems.
-- **Nicholas Carlini** - Working in industry on adversarial robustness and secure ML.
-- **Karen Simonyan** - Working in industry on vision-based reliability in deep learning.
-- **Christian Szegedy** - Working in industry on adversarial defenses and vision.
-- **Nick Bostrom** - Working in academia on AI safety and societal impacts.
-- **Theodore Papamarkou** - Working in academia on Bayesian methods and uncertainty quantification.
-- **Maria Skoularidou** - Working in academia on probabilistic models and generative AI.
-- **Konstantina Palla** - Working in academia on Bayesian statistics and machine learning.
-- **Laurence Aitchison** - Working in academia on neural computation and Bayesian methods.
-- **Julyan Arbel** - Working in academia on probabilistic modeling and statistical inference.
-- **David Dunson** - Working in academia on Bayesian inference and uncertainty quantification.
-- **Maurizio Filippone** - Working in academia on scalable Gaussian processes and Bayesian methods.
-- **Vincent Fortuin** - Working in academia on uncertainty estimation and deep learning.
-- **Philipp Hennig** - Working in academia on optimization and probabilistic numerics.
-- **Jose Miguel Hernandez-Lobato** - Working in academia on Bayesian deep learning.
-- **Aliaksandr Hubin** - Working in academia on Bayesian statistics and model selection.
-- **Alexander Immer** - Working in academia on Bayesian inference and machine learning.
-- **Theofanis Karaletsos** - Working in academia and industry on Bayesian methods and generative models.
-- **Mohammad Emtiyaz Khan** - Working in academia on variational inference and scalable Bayesian methods.
-- **Agustinus Kristiadi** - Working in academia on uncertainty estimation and Bayesian deep learning.
-- **Yingzhen Li** - Working in academia on probabilistic inference and Bayesian neural networks.
-- **Stephan Mandt** - Working in academia on probabilistic modeling and scalable inference.
-- **Christopher Nemeth** - Working in academia on statistical methods and uncertainty quantification.
-- **Michael A. Osborne** - Working in academia on Bayesian optimization and probabilistic inference.
-- **Tim G. J. Rudner** - Working in academia on reinforcement learning and Bayesian methods.
-- **David Rugamer** - Working in academia on statistical modeling and Bayesian methods.
-- **Yee Whye Teh** - Working in academia on Bayesian nonparametrics and deep learning.
-- **Max Welling** - Working in academia on scalable Bayesian methods and probabilistic modeling.
-- **Andrew Gordon Wilson** - Working in academia on Gaussian processes and probabilistic machine learning.
-- **Ruqi Zhang** - Working in academia on Bayesian inference and deep generative models.
 
 | Name | Affiliation | Research Interests | Social Media |
 |------|-------------|-------------------|--------------|
