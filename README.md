@@ -68,76 +68,59 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Research Articles 📄
-- *"Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?"* (2024) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ICML
 - *"Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI"* (2024) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ICML
-- *"Bayesian Semi-structured Subspace Inference"* (2024) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - AISTATS
 - *"AI generates covertly racist decisions about people based on their dialect"* (2024) ![Fairness](https://img.shields.io/badge/Fairness-teal) - Nature
-- *"Training, Architecture, and Prior for Deterministic Uncertainty Methods?"* (2023) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Robustness](https://img.shields.io/badge/Robustness-green) - TrustML - ICLR
 - *"Revisiting uncertainty estimation for node classification: New benchmark and insights"* (2023) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - OpenReview
-- *"On second-order scoring rules for epistemic uncertainty quantification"* (2023) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ArXiv
-- *"Disentangling epistemic and aleatoric uncertainty in reinforcement learning"* (2022) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Explainability](https://img.shields.io/badge/Explainability-cyan) - DFUQ - ICML
-- *"Towards OOD detection in graph classification from uncertainty estimation perspective"* (2022) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ArXiv
-- *"Pitfalls of epistemic uncertainty quantification through loss minimisation"* (2022) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - NeurIPS
 - *"Distributional Reinforcement Learning"* (2022) ![Explainability](https://img.shields.io/badge/Explainability-cyan) - MIT Press
-- *"Deep ensembles work, but are they necessary?"* (2022) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Robustness](https://img.shields.io/badge/Robustness-green) - NeurIPS
-- *"On the robustness and anomaly detection of sparse neural networks"* (2022) ![Robustness](https://img.shields.io/badge/Robustness-green) - SNN Workshop
 - *"Natural posterior network: Deep Bayesian predictive uncertainty for exponential family distributions"* (2021) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ICLR
 - *"A review of uncertainty quantification in deep learning: Techniques, applications and challenges"* (2021) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - Information Fusion
-- *"Graph posterior network: Bayesian predictive uncertainty for node classification"* (2021) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - NeurIPS
-- *"A gentle introduction to conformal prediction and distribution-free uncertainty quantification"* (2021) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ArXiv
-- *"Adversarial attack for uncertainty estimation: Identifying critical regions in neural networks"* (2021) ![Attack](https://img.shields.io/badge/Attack-red) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - Neural Processing Letters
-- *"Matérn Gaussian Processes on Graphs"* (2021) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - AISTATS
 - *"Privacy Issues of AI"* (2021) ![Privacy](https://img.shields.io/badge/Privacy-purple) - Springer
 - *"Getting a {clue}: A method for explaining uncertainty estimates"* (2021) ![Explainability](https://img.shields.io/badge/Explainability-cyan) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ICLR
 - *"Evaluating robustness of predictive uncertainty estimation: Are Dirichlet-based models reliable?"* (2020) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) ![Robustness](https://img.shields.io/badge/Robustness-green) ![Attack](https://img.shields.io/badge/Attack-red) ![Defense](https://img.shields.io/badge/Defense-blue) - ICML
-- *"Deep evidential regression"* (2020) ![Explainability](https://img.shields.io/badge/Explainability-cyan) - NeurIPS
-- *"Posterior network: Uncertainty estimation without OOD samples via density-based pseudo-counts"* (2020) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - NeurIPS
-- *"Efficient robustness certificates for discrete data: Sparsity-aware randomized smoothing for graphs, images and more"* (2020) ![Robustness](https://img.shields.io/badge/Robustness-green) - ICML
 - *"Provable worst case guarantees for the detection of out-of-distribution data"* (2020) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - NeurIPS
-- *"Cold posteriors and aleatoric uncertainty"* (2020) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - ArXiv
-- *"Uncertainty on asynchronous time event prediction"* (2019) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - NeurIPS
 - *"Uncertainty-based continual learning with adaptive regularization"* (2019) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - NeurIPS
 - *"Certifiable robustness to graph perturbations"* (2019) ![Robustness](https://img.shields.io/badge/Robustness-green) - NeurIPS
 - *"Explainable artificial intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI"* (2019) ![Explainability](https://img.shields.io/badge/Explainability-cyan) - Information Fusion
 - *"Bayesian robust attributed graph clustering: Joint learning of partial anomalies and group structure"* (2018) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Robustness](https://img.shields.io/badge/Robustness-green) - AAAI
-- *"BayesGrad: Explaining predictions of graph convolutional networks"* (2018) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) ![Explainability](https://img.shields.io/badge/Explainability-cyan) - NeurIPS
 - *"Concerns about human agency, evolution and survival"* (2018) ![Fairness](https://img.shields.io/badge/Fairness-teal) - Pew Research
-- *"Deep Gaussian embedding of graphs: Unsupervised inductive learning via ranking"* (2017) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - ArXiv
 - *"Variational inference: A review for statisticians"* (2017) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - Journal of the American Statistical Association
 - *"A distributional perspective on reinforcement learning"* (2017) ![Explainability](https://img.shields.io/badge/Explainability-cyan) - ICML
-- *"A general framework for updating belief distributions"* (2016) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - Journal of the Royal Statistical Society
-- *"Concrete problems in AI safety"* (2016) ![Defense](https://img.shields.io/badge/Defense-blue) - ArXiv
-- *"Weight uncertainty in neural networks"* (2015) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - ICML
 - *"The fundamental incompatibility of scalable Hamiltonian Monte Carlo and naive data subsampling"* (2015) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - ICML
 - *"Superintelligence: Paths, Dangers, Strategies"* (2014) ![Fairness](https://img.shields.io/badge/Fairness-teal) - Oxford University Press
 - *"Fluctuations in uncertainty"* (2014) ![Uncertainty](https://img.shields.io/badge/Uncertainty-orange) - Journal of Economic Perspectives
-- *"Analysis of Thompson sampling for the multi-armed bandit problem"* (2012) ![Bayesian](https://img.shields.io/badge/Bayesian-lime) - COLT
 
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[Training, Architecture, and Prior for Deterministic Uncertainty Methods](http://arxiv.org/abs/2303.05796v2)</b></sub> | 2023 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning](http://arxiv.org/abs/2206.01558v1)</b></sub> | 2022 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
-| <sub><b>[Towards OOD Detection in Graph Classification from Uncertainty Estimation Perspective](http://arxiv.org/abs/2206.10691v1)</b></sub> | 2022 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
-| <sub><b>[Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](http://arxiv.org/abs/2203.06102v2)</b></sub> | 2022 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
-| <sub><b>[Deep Ensembles Work, But Are They Necessary?](http://arxiv.org/abs/2202.06985v2)</b></sub> | 2022 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![robustness](https://img.shields.io/badge/robustness-red)</b></sub> |
-| <sub><b>[On the Robustness and Anomaly Detection of Sparse Neural Networks](http://arxiv.org/abs/2207.04227v1)</b></sub> | 2022 | nan | <sub><b>![robustness](https://img.shields.io/badge/robustness-red) ![safety](https://img.shields.io/badge/safety-orange)</b></sub> |
-| <sub><b>[Adversarial Attack for Uncertainty Estimation: Identifying Critical Regions in Neural Networks](http://arxiv.org/abs/2107.07618v2)</b></sub> | 2021 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification](http://arxiv.org/abs/2110.14012v1)</b></sub> | 2021 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[Implicit Distributional Reinforcement Learning](http://arxiv.org/abs/2007.06159v2)</b></sub> | 2020 | nan | <sub><b></b></sub> |
-| <sub><b>[A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges](http://arxiv.org/abs/2011.06225v4)</b></sub> | 2020 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[Cold Posteriors and Aleatoric Uncertainty](http://arxiv.org/abs/2008.00029v1)</b></sub> | 2020 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[Deep Evidential Regression](http://arxiv.org/abs/1910.02600v2)</b></sub> | 2019 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple) ![robustness](https://img.shields.io/badge/robustness-red) ![safety](https://img.shields.io/badge/safety-orange)</b></sub> |
-| <sub><b>[Uncertainty on Asynchronous Time Event Prediction](http://arxiv.org/abs/1911.05503v2)</b></sub> | 2019 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
-| <sub><b>[Certifiable Robustness to Graph Perturbations](http://arxiv.org/abs/1910.14356v2)</b></sub> | 2019 | nan | <sub><b>![robustness](https://img.shields.io/badge/robustness-red) ![certifiability](https://img.shields.io/badge/certifiability-purple)</b></sub> |
-| <sub><b>[Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](http://arxiv.org/abs/1910.10045v2)</b></sub> | 2019 | nan | <sub><b>![fairness](https://img.shields.io/badge/fairness-green) ![explainability](https://img.shields.io/badge/explainability-yellow)</b></sub> |
-| <sub><b>[BayesGrad: Explaining Predictions of Graph Convolutional Networks](http://arxiv.org/abs/1807.01985v1)</b></sub> | 2018 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking](http://arxiv.org/abs/1707.03815v4)</b></sub> | 2017 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
-| <sub><b>[A Distributional Perspective on Reinforcement Learning](http://arxiv.org/abs/1707.06887v1)</b></sub> | 2017 | nan | <sub><b></b></sub> |
-| <sub><b>[Variational Inference: A Review for Statisticians](http://arxiv.org/abs/1601.00670v9)</b></sub> | 2016 | nan | <sub><b>![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[Concrete Problems in AI Safety](http://arxiv.org/abs/1606.06565v2)</b></sub> | 2016 | nan | <sub><b>![safety](https://img.shields.io/badge/safety-orange)</b></sub> |
-| <sub><b>[Weight Uncertainty in Neural Networks](http://arxiv.org/abs/1505.05424v2)</b></sub> | 2015 | nan | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-| <sub><b>[A General Framework for Updating Belief Distributions](http://arxiv.org/abs/1306.6430v2)</b></sub> | 2013 | nan | <sub><b>![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
-
+| <sub><b>[Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?](http://arxiv.org/abs/2402.01484v2)</b></sub> | 2024 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Bayesian Semi-structured Subspace Inference](http://arxiv.org/abs/2401.12950v1)</b></sub> | 2024 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[On Second-Order Scoring Rules for Epistemic Uncertainty Quantification](http://arxiv.org/abs/2301.12736v1)</b></sub> | 2023 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
+| <sub><b>[Training, Architecture, and Prior for Deterministic Uncertainty Methods](http://arxiv.org/abs/2303.05796v2)</b></sub> | 2023 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Towards OOD Detection in Graph Classification from Uncertainty Estimation Perspective](http://arxiv.org/abs/2206.10691v1)</b></sub> | 2022 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
+| <sub><b>[Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning](http://arxiv.org/abs/2206.01558v1)</b></sub> | 2022 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
+| <sub><b>[Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](http://arxiv.org/abs/2203.06102v2)</b></sub> | 2022 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
+| <sub><b>[Deep Ensembles Work, But Are They Necessary?](http://arxiv.org/abs/2202.06985v2)</b></sub> | 2022 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![robustness](https://img.shields.io/badge/robustness-red)</b></sub> |
+| <sub><b>[On the Robustness and Anomaly Detection of Sparse Neural Networks](http://arxiv.org/abs/2207.04227v1)</b></sub> | 2022 | None | <sub><b>![robustness](https://img.shields.io/badge/robustness-red) ![safety](https://img.shields.io/badge/safety-orange)</b></sub> |
+| <sub><b>[Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification](http://arxiv.org/abs/2110.14012v1)</b></sub> | 2021 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Adversarial Attack for Uncertainty Estimation: Identifying Critical Regions in Neural Networks](http://arxiv.org/abs/2107.07618v2)</b></sub> | 2021 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](http://arxiv.org/abs/2107.07511v6)</b></sub> | 2021 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
+| <sub><b>[Implicit Distributional Reinforcement Learning](http://arxiv.org/abs/2007.06159v2)</b></sub> | 2020 | None | <sub><b></b></sub> |
+| <sub><b>[A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges](http://arxiv.org/abs/2011.06225v4)</b></sub> | 2020 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Cold Posteriors and Aleatoric Uncertainty](http://arxiv.org/abs/2008.00029v1)</b></sub> | 2020 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More](http://arxiv.org/abs/2008.12952v2)</b></sub> | 2020 | None | <sub><b>![robustness](https://img.shields.io/badge/robustness-red) ![certifiability](https://img.shields.io/badge/certifiability-purple)</b></sub> |
+| <sub><b>[Matérn Gaussian Processes on Graphs](http://arxiv.org/abs/2010.15538v3)</b></sub> | 2020 | None | <sub><b></b></sub> |
+| <sub><b>[Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts](http://arxiv.org/abs/2006.09239v2)</b></sub> | 2020 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![safety](https://img.shields.io/badge/safety-orange)</b></sub> |
+| <sub><b>[Certifiable Robustness to Graph Perturbations](http://arxiv.org/abs/1910.14356v2)</b></sub> | 2019 | None | <sub><b>![robustness](https://img.shields.io/badge/robustness-red) ![certifiability](https://img.shields.io/badge/certifiability-purple)</b></sub> |
+| <sub><b>[Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](http://arxiv.org/abs/1910.10045v2)</b></sub> | 2019 | None | <sub><b>![fairness](https://img.shields.io/badge/fairness-green) ![explainability](https://img.shields.io/badge/explainability-yellow)</b></sub> |
+| <sub><b>[Deep Evidential Regression](http://arxiv.org/abs/1910.02600v2)</b></sub> | 2019 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple) ![robustness](https://img.shields.io/badge/robustness-red) ![safety](https://img.shields.io/badge/safety-orange)</b></sub> |
+| <sub><b>[Uncertainty on Asynchronous Time Event Prediction](http://arxiv.org/abs/1911.05503v2)</b></sub> | 2019 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
+| <sub><b>[BayesGrad: Explaining Predictions of Graph Convolutional Networks](http://arxiv.org/abs/1807.01985v1)</b></sub> | 2018 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking](http://arxiv.org/abs/1707.03815v4)</b></sub> | 2017 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange)</b></sub> |
+| <sub><b>[A Distributional Perspective on Reinforcement Learning](http://arxiv.org/abs/1707.06887v1)</b></sub> | 2017 | None | <sub><b></b></sub> |
+| <sub><b>[Variational Inference: A Review for Statisticians](http://arxiv.org/abs/1601.00670v9)</b></sub> | 2016 | None | <sub><b>![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Concrete Problems in AI Safety](http://arxiv.org/abs/1606.06565v2)</b></sub> | 2016 | None | <sub><b>![safety](https://img.shields.io/badge/safety-orange)</b></sub> |
+| <sub><b>[Weight Uncertainty in Neural Networks](http://arxiv.org/abs/1505.05424v2)</b></sub> | 2015 | None | <sub><b>![uncertainty](https://img.shields.io/badge/uncertainty-orange) ![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[A General Framework for Updating Belief Distributions](http://arxiv.org/abs/1306.6430v2)</b></sub> | 2013 | None | <sub><b>![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
+| <sub><b>[Analysis of Thompson Sampling for the multi-armed bandit problem](http://arxiv.org/abs/1111.1797v3)</b></sub> | 2011 | None | <sub><b>![bayesian](https://img.shields.io/badge/bayesian-purple)</b></sub> |
 
 ---
 
