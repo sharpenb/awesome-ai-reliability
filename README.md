@@ -42,6 +42,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and feel free 
 ---
 
 ## Tools 🛠️
+- **[agentstats](https://github.com/RishabhPande/agentstats)**: Python library for analyzing run-to-run variance, significance and run-count planning in repeated AI agent benchmark results; it analyzes supplied results rather than running agents.
 - **[Uncertainty Baselines](https://github.com/google/uncertainty-baselines)**: High-quality implementations of standard and SOTA methods on a variety of tasks.
 - **[Uncertainty Toolbox](https://uncertainty-toolbox.github.io/)**: A Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization.
 - **[RobustBench](https://robustbench.github.io/)**: A standardized benchmark for adversarial robustness.
